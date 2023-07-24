@@ -1,5 +1,8 @@
 import pandas as pd
 import json, os
+from timeis import timeis, green, yellow, line, white, tic, toc
+
+tic()
 
 MAIN_DIR="Bhikkhu_Patimokkha"
 DB_DIR=MAIN_DIR + "/json"
@@ -83,6 +86,7 @@ for source_file in sources_json:
         "lit. meaning", "root", "base", "construction", "compound type", "compound construction"]].fillna("")
             definition_table = define_df.to_html(justify='left', index=False).replace("0", "")
             definition_table = definition_table.replace("pali", "pāḷi")
+            
             file.write(definition_table)
             file.write("<br><br>\n")
 
@@ -90,3 +94,5 @@ for source_file in sources_json:
     file.write("</body>\n")
     file.write("</html>\n") 
     file.close()
+
+toc()
