@@ -30,5 +30,21 @@
     "construction":"khīya + ana + ka",
     "compound type":"",
     "compound construction":""
+  },
+  {
+    "abbrev":"PC 13",
+    "source":"ujjhāpanakasikkhāpadaṃ",
+    "sentence":"ujjhāpanake, khīyanake pācittiyaṃ.",
+    "pali":"pācittiyaṃ",
+    "pos":"adj",
+    "grammar":"nt nom sg of pācittiya",
+    "+case":"+loc",
+    "meaning":"requiring confession",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
   }
 ]

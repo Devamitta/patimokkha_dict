@@ -268,10 +268,6 @@
     "abbrev":"PC 10"
   },
   {
-    "source":"pācittiyā",
-    "abbrev":"PC"
-  },
-  {
     "source":"bhūtagāmasikkhāpadaṃ",
     "abbrev":"PC 11"
   },
@@ -380,7 +376,7 @@
     "abbrev":"PC 37"
   },
   {
-    "source":"paṇītabhojanasikkhāpadaṃ",
+    "source":"sannidhikārakasikkhāpadaṃ",
     "abbrev":"PC 38"
   },
   {
@@ -408,7 +404,7 @@
     "abbrev":"PC 44"
   },
   {
-    "source":"rahonisajjasikkhāpadaṃ",
+    "source":"rahonisajjasikkhāpadaṃ 2",
     "abbrev":"PC 45"
   },
   {
@@ -476,7 +472,7 @@
     "abbrev":"PC 61"
   },
   {
-    "source":"sappāṇakasikkhāpadaṃ",
+    "source":"sappāṇakasikkhāpadaṃ 2",
     "abbrev":"PC 62"
   },
   {
@@ -496,7 +492,7 @@
     "abbrev":"PC 66"
   },
   {
-    "source":"saṃvidhānasikkhāpadaṃ",
+    "source":"saṃvidhānasikkhāpadaṃ 2",
     "abbrev":"PC 67"
   },
   {
@@ -536,7 +532,7 @@
     "abbrev":"PC 76"
   },
   {
-    "source":"sañciccasikkhāpadaṃ",
+    "source":"sañciccasikkhāpadaṃ 2",
     "abbrev":"PC 77"
   },
   {
@@ -592,12 +588,16 @@
     "abbrev":"PC 90"
   },
   {
-    "source":"vassikasāṭikasikkhāpadaṃ",
+    "source":"vassikasāṭikāsikkhāpadaṃ",
     "abbrev":"PC 91"
   },
   {
     "source":"nandasikkhāpadaṃ",
     "abbrev":"PC 92"
+  },
+  {
+    "source":"pācittiyā",
+    "abbrev":"PC"
   },
   {
     "source":"pāṭidesanīyā",
@@ -729,10 +729,6 @@
   },
   {
     "source":"sakkaccapaṭiggahaṇasikkhāpadaṃ",
-    "abbrev":"SE 27"
-  },
-  {
-    "source":"pattasaññīpaṭiggahaṇasikkhāpadaṃ",
     "abbrev":"SE 27"
   },
   {
@@ -884,7 +880,7 @@
     "abbrev":"SE 64"
   },
   {
-    "source":"pallatthikasikkhāpadaṃ",
+    "source":"pallatthikasikkhāpadaṃ 2",
     "abbrev":"SE 65"
   },
   {
@@ -892,7 +888,7 @@
     "abbrev":"SE 66"
   },
   {
-    "source":"oguṇṭhitasikkhāpadaṃ",
+    "source":"oguṇṭhitasikkhāpadaṃ 2",
     "abbrev":"SE 67"
   },
   {
@@ -921,10 +917,6 @@
   },
   {
     "source":"hariteuccārasikkhāpadaṃ",
-    "abbrev":"SE 73"
-  },
-  {
-    "source":"udakeuccārasikkhāpadaṃ",
     "abbrev":"SE 74"
   },
   {

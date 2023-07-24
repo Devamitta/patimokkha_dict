@@ -19,6 +19,22 @@
     "abbrev":"PC 03",
     "source":"pesuññasikkhāpadaṃ",
     "sentence":"bhikkhupesuññe pācittiyaṃ.",
+    "pali":"- bhikkhu",
+    "pos":"noun",
+    "grammar":"masc, from bhikkhati",
+    "+case":0,
+    "meaning":"monk, monastic",
+    "lit. meaning":"beggar, mendicant",
+    "root":"√bhikkh (beg)",
+    "base":0,
+    "construction":"√bhikkh + u",
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 03",
+    "source":"pesuññasikkhāpadaṃ",
+    "sentence":"bhikkhupesuññe pācittiyaṃ.",
     "pali":"- pesuññe",
     "pos":"noun",
     "grammar":"nt loc sg of pesuñña",
@@ -30,5 +46,21 @@
     "construction":"√pis > pes + uṇa + *ya",
     "compound type":"",
     "compound construction":""
+  },
+  {
+    "abbrev":"PC 03",
+    "source":"pesuññasikkhāpadaṃ",
+    "sentence":"bhikkhupesuññe pācittiyaṃ.",
+    "pali":"pācittiyaṃ",
+    "pos":"adj",
+    "grammar":"nt nom sg of pācittiya",
+    "+case":"+loc",
+    "meaning":"requiring confession",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
   }
 ]

@@ -110,5 +110,53 @@
     "construction":"pa + khipa + issa + ti",
     "compound type":"",
     "compound construction":""
+  },
+  {
+    "abbrev":"SE 42",
+    "source":"bhuñjamānasikkhāpadaṃ",
+    "sentence":"na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- iti",
+    "pos":"ind",
+    "grammar":0,
+    "+case":0,
+    "meaning":"“”",
+    "lit. meaning":"thus",
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 42",
+    "source":"bhuñjamānasikkhāpadaṃ",
+    "sentence":"na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmī'ti sikkhā karaṇīyā.",
+    "pali":"sikkhā",
+    "pos":"noun",
+    "grammar":"fem nom sg",
+    "+case":0,
+    "meaning":"training, precept, training precept",
+    "lit. meaning":0,
+    "root":"√sikkh (train)",
+    "base":0,
+    "construction":"√sikkh + ā",
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 42",
+    "source":"bhuñjamānasikkhāpadaṃ",
+    "sentence":"na bhuñjamāno sabbahatthaṃ mukhe pakkhipissāmī'ti sikkhā karaṇīyā.",
+    "pali":"karaṇīyā",
+    "pos":"noun",
+    "grammar":"nt abl sg of karaṇīya, ptp of karoti",
+    "+case":0,
+    "meaning":"duty; obligation; business; something to be done",
+    "lit. meaning":"to be done",
+    "root":"√kar (do, make)",
+    "base":0,
+    "construction":"√kar + aṇīya",
+    "compound type":0,
+    "compound construction":0
   }
 ]
