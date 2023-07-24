@@ -226,6 +226,22 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 22",
+    "source":"ūnapañcabandhanasikkhāpadaṃ",
     "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
     "pali":"tena",
     "pos":"pron",
@@ -348,6 +364,22 @@
     "root":"√sajj (relinquish, let loose)",
     "base":"",
     "construction":"nī + √sajj + itabba",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 22",
+    "source":"ūnapañcabandhanasikkhāpadaṃ",
+    "sentence":"tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -674,6 +706,22 @@
   {
     "abbrev":"NP 22",
     "source":"ūnapañcabandhanasikkhāpadaṃ",
+    "sentence":"yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 22",
+    "source":"ūnapañcabandhanasikkhāpadaṃ",
     "sentence":"ayaṃ tattha sāmīci.",
     "pali":"ayaṃ",
     "pos":"pron",
@@ -718,5 +766,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 22",
+    "source":"ūnapañcabandhanasikkhāpadaṃ",
+    "sentence":"ayaṃ tattha sāmīci.",
+    "pali":"yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ, sappi navanītaṃ telaṃ madhu phāṇitaṃ",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

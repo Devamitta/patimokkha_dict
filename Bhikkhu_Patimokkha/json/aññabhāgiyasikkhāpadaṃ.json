@@ -322,6 +322,22 @@
   {
     "abbrev":"SA 9",
     "source":"aññabhāgiyasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya",
+    "pali":"If any bhikkhu, corrupted by malice [and] upset, should accuse abhikkhu with a case involving disqualification, having taken [it] up[with] some point, which is a mere pretext, of a legal issuebelonging to another class",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 9",
+    "source":"aññabhāgiyasikkhāpadaṃ",
     "sentence":"app'eva nāma naṃ imamhā brahmacariyā cāveyyan'ti",
     "pali":"appeva",
     "pos":"comp",
@@ -414,6 +430,22 @@
     "construction":"cāveyyaṃ + iti",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 9",
+    "source":"aññabhāgiyasikkhāpadaṃ",
+    "sentence":"app'eva nāma naṃ imamhā brahmacariyā cāveyyan'ti",
+    "pali":"“If only I could make him fallaway from this holy life!,”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"SA 9",
@@ -674,6 +706,22 @@
   {
     "abbrev":"SA 9",
     "source":"aññabhāgiyasikkhāpadaṃ",
+    "sentence":"tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañ'c'eva taṃ adhikaraṇaṃ hoti",
+    "pali":"[and] then, on another occasion,[whether] being interrogated or not being interrogated, if that legal issue is really belonging to another class",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 9",
+    "source":"aññabhāgiyasikkhāpadaṃ",
     "sentence":"koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
     "pali":"koci",
     "pos":"pron",
@@ -814,5 +862,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 9",
+    "source":"aññabhāgiyasikkhāpadaṃ",
+    "sentence":"koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
+    "pali":"some point, which amere pretext, has been taken up, and if the bhikkhu stands firm inmalice: [this is a case concerning] the community in the beginningand in the rest [of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

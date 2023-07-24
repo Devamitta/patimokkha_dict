@@ -210,6 +210,22 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
+    "sentence":"saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ att'uddesaṃ pamāṇikā kāretabbā",
+    "pali":"By a bhikkhu who is having a hut, which is without an owner, [and]is designated for himself, built by means of his own beggedrequisites, [that hut] is to be built according to the [proper]measure.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 6",
+    "source":"kuṭikārasikkhāpadaṃ",
     "sentence":"tatr'idaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā",
     "pali":"tatridaṃ",
     "pos":"comp",
@@ -466,6 +482,22 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
+    "sentence":"tatr'idaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā",
+    "pali":"This is the measure here: twelve spans of the sugata-spanin length, [and] inside seven [spans] across.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 6",
+    "source":"kuṭikārasikkhāpadaṃ",
     "sentence":"bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.",
     "pali":"bhikkhū",
     "pos":"noun",
@@ -642,6 +674,22 @@
   {
     "abbrev":"SA 6",
     "source":"kuṭikārasikkhāpadaṃ",
+    "sentence":"bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.",
+    "pali":"Bhikkhus are to bebrought to [it] for appointing the site. By those bhikkhus a site is tobe appointed which is not entailing harm [to creatures and whichis] having a surrounding space.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 6",
+    "source":"kuṭikārasikkhāpadaṃ",
     "sentence":"sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya",
     "pali":"sārambhe",
     "pos":"adj",
@@ -764,6 +812,22 @@
     "root":"√kar (do, make)",
     "base":"√kar + *e > kāre (caus)",
     "construction":"kāre + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 6",
+    "source":"kuṭikārasikkhāpadaṃ",
+    "sentence":"sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya",
+    "pali":"If a bhikkhu, having requested ithimself, should have a hut built on a site entailing harm [tocreatures], [and] not having a surrounding space,",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -894,5 +958,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 6",
+    "source":"kuṭikārasikkhāpadaṃ",
+    "sentence":"bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
+    "pali":"or if he shouldnot bring bhikkhus to [it] for appointing the site, or if he should let[it] exceed the measure: [this is a case concerning] the communityin the beginning and in the rest [of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

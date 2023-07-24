@@ -146,6 +146,22 @@
   {
     "abbrev":"PC 10",
     "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 10",
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
     "sentence":"musāvādavaggo paṭhamo.",
     "pali":"musāvādavaggo",
     "pos":"noun",
@@ -206,5 +222,21 @@
     "construction":"pa + tama",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 10",
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "sentence":"musāvādavaggo paṭhamo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

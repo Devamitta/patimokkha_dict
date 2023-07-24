@@ -242,6 +242,22 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ",
+    "pali":"If any bhikkhu should engage in mediating a man’s intention to awoman, or a woman’s intention to a man",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 5",
+    "source":"sañcarittasikkhāpadaṃ",
     "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
     "pali":"jāyattane",
     "pos":"noun",
@@ -398,5 +414,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 5",
+    "source":"sañcarittasikkhāpadaṃ",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "pali":"for being a wife or forbeing a mistress, even for being one on [just] that occasion: [this isa case concerning] the community in the beginning and in the rest[of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

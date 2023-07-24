@@ -194,6 +194,22 @@
   {
     "abbrev":"NP 7",
     "source":"tatuttarisikkhāpadaṃ",
+    "sentence":"tañ'ce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 7",
+    "source":"tatuttarisikkhāpadaṃ",
     "sentence":"santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ.",
     "pali":"santaruttaraparamaṃ",
     "pos":"ind",
@@ -338,6 +354,22 @@
   {
     "abbrev":"NP 7",
     "source":"tatuttarisikkhāpadaṃ",
+    "sentence":"santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 7",
+    "source":"tatuttarisikkhāpadaṃ",
     "sentence":"tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"tato",
     "pos":"ind",
@@ -430,5 +462,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 7",
+    "source":"tatuttarisikkhāpadaṃ",
+    "sentence":"tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

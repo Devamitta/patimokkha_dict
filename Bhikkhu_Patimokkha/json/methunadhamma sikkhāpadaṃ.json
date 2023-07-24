@@ -194,6 +194,22 @@
   {
     "abbrev":"PA 1",
     "source":"methunadhamma sikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā",
+    "pali":"If any bhikkhu [who] has entered upon the training and livelihoodfor bhikkhus, not having rejected the training, not having disclosed[his] incapability,",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 1",
+    "source":"methunadhamma sikkhāpadaṃ",
     "sentence":"methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāya'pi, pārājiko hoti asaṃvāso.",
     "pali":"methunaṃ",
     "pos":"adj",
@@ -348,6 +364,22 @@
     "root":"√vas (live)",
     "base":"",
     "construction":"na + saṃ + √vas + *a",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 1",
+    "source":"methunadhamma sikkhāpadaṃ",
+    "sentence":"methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāya'pi, pārājiko hoti asaṃvāso.",
+    "pali":"should engage in the act of sexual intercourse,even with just a female animal, he is disqualified, not in communion.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   }

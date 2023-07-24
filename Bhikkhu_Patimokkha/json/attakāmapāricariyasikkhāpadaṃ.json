@@ -242,6 +242,22 @@
   {
     "abbrev":"SA 4",
     "source":"attakāmapāricariyasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya",
+    "pali":"If any bhikkhu, under the influence of an altered mind, [and] in thepresence of a woman, should speak praise about the ministering tohimself with sex:",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 4",
+    "source":"attakāmapāricariyasikkhāpadaṃ",
     "sentence":"etad'aggaṃ bhagini pāricariyānaṃ",
     "pali":"etadaggaṃ",
     "pos":"noun",
@@ -316,6 +332,22 @@
     "root":"√car (walk, behave)",
     "base":"",
     "construction":"pari > pāri + √car + a + *iyā",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 4",
+    "source":"attakāmapāricariyasikkhāpadaṃ",
+    "sentence":"etad'aggaṃ bhagini pāricariyānaṃ",
+    "pali":"“Sister, this is the best of ministerings: ",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -574,5 +606,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 4",
+    "source":"attakāmapāricariyasikkhāpadaṃ",
+    "sentence":"yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā'ti methun'upasaṃhitena, saṅghādiseso.",
+    "pali":"she who would minister to a virtuous, good natured celibate like me withthis act!,” [which is something] connected with sexual intercourse:[this is a case concerning] the community in the beginning and inthe rest [of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

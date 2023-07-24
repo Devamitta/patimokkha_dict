@@ -418,6 +418,22 @@
   {
     "abbrev":"PC 19",
     "source":"mahallakavihārasikkhāpadaṃ",
+    "sentence":"mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ,",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 19",
+    "source":"mahallakavihārasikkhāpadaṃ",
     "sentence":"tato ce uttari appaharite'pi ṭhito adhiṭṭhaheyya, pācittiyaṃ.",
     "pali":"tato",
     "pos":"ind",
@@ -558,5 +574,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 19",
+    "source":"mahallakavihārasikkhāpadaṃ",
+    "sentence":"tato ce uttari appaharite'pi ṭhito adhiṭṭhaheyya, pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

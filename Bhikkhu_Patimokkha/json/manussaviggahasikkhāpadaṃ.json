@@ -258,6 +258,22 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ v'āssa pariyeseyya",
+    "pali":"If any bhikkhu should deliberately deprive a human being of life, orshould seek an assassin for him",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
     "sentence":"maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya",
     "pali":"maraṇavaṇṇaṃ",
     "pos":"noun",
@@ -380,6 +396,22 @@
     "root":"√ādā (take, steal)",
     "base":"√ādā + āpe > ādape (irreg)",
     "construction":"saṃ + ādape + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya",
+    "pali":"or should praise the attractivenessof death, or should incite [him] to death",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -606,6 +638,22 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
+    "pali":"“Dear man, what[use] is this bad, wretched life for you? Death is better than life foryou!”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"PA 3",
@@ -866,6 +914,22 @@
   {
     "abbrev":"PA 3",
     "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya",
+    "pali":"should he, [having] such thought-and mind, [having such-]thought-and-intention, praise in manifold ways the beauty of deathor incite [him] to death,",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
     "sentence":"ayam'pi pārājiko hoti asaṃvāso.",
     "pali":"ayampi",
     "pos":"comp",
@@ -926,5 +990,21 @@
     "construction":"na + saṃ + √vas + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PA 3",
+    "source":"manussaviggahasikkhāpadaṃ",
+    "sentence":"ayam'pi pārājiko hoti asaṃvāso.",
+    "pali":"he also is disqualified, not in communion.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

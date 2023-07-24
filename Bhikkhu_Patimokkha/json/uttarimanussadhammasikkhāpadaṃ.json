@@ -402,6 +402,22 @@
   {
     "abbrev":"PA 4",
     "source":"uttarimanussadhammasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ att'upanāyikaṃ alam'ariyañāṇadassanaṃ samudācareyya iti jānāmi, iti passāmī'ti",
+    "pali":"If any bhikkhu, [though] not directly knowing [it], should claim asuperhuman state pertaining to himself, [a state of] knowing andseeing [that is] suitable for the noble [ones], [saying]: “Thus Iknow! Thus I see!,”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 4",
+    "source":"uttarimanussadhammasikkhāpadaṃ",
     "sentence":"tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddh'āpekkho evaṃ vadeyya",
     "pali":"tato",
     "pos":"ind",
@@ -604,6 +620,22 @@
     "root":"√vad (speak)",
     "base":"√vad + a > vada",
     "construction":"vada + eyya",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 4",
+    "source":"uttarimanussadhammasikkhāpadaṃ",
+    "sentence":"tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddh'āpekkho evaṃ vadeyya",
+    "pali":"[and] then, on another occasion, [whether]being interrogated or not being interrogated, having committed[the offence], desiring purification, should say so:",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -818,6 +850,22 @@
   {
     "abbrev":"PA 4",
     "source":"uttarimanussadhammasikkhāpadaṃ",
+    "sentence":"ajānam'evaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin'ti",
+    "pali":"“[Although] notknowing [it,] I spoke thus [saying]: ’I know,’ not seeing [it, I spoke,saying:] ’I see.’ I bluffed vainly [and] falsely,”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 4",
+    "source":"uttarimanussadhammasikkhāpadaṃ",
     "sentence":"aññatra adhimānā, ayam'pi pārājiko hoti asaṃvāso.",
     "pali":"aññatra",
     "pos":"ind",
@@ -910,5 +958,21 @@
     "construction":"na + saṃ + √vas + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PA 4",
+    "source":"uttarimanussadhammasikkhāpadaṃ",
+    "sentence":"aññatra adhimānā, ayam'pi pārājiko hoti asaṃvāso.",
+    "pali":"except [when said] inoverestimation, he also is disqualified, not in communion.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

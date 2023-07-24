@@ -354,6 +354,22 @@
   {
     "abbrev":"AN 2",
     "source":"dutiyāniyatasikkhāpada",
+    "sentence":"na h'eva kho pana paṭicchannaṃ āsanaṃ hoti n'ālaṃkammaniyaṃ, alañ'ca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ",
+    "pali":"But even if the seat is neither concealed nor sufficiently fit for doingit, but is sufficient for speaking suggestively to a woman withdepraved words",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"AN 2",
+    "source":"dutiyāniyatasikkhāpada",
     "sentence":"yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya",
     "pali":"yo",
     "pos":"pron",
@@ -578,6 +594,22 @@
   {
     "abbrev":"AN 2",
     "source":"dutiyāniyatasikkhāpada",
+    "sentence":"yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya",
+    "pali":"if any bhikkhu should sit down on such a seattogether with a woman—one [man] with one [woman],privately",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"AN 2",
+    "source":"dutiyāniyatasikkhāpada",
     "sentence":"tam'enaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena vadeyya, saṅghādisesena vā pācittiyena vā",
     "pali":"tamenaṃ",
     "pos":"pron",
@@ -770,6 +802,22 @@
   {
     "abbrev":"AN 2",
     "source":"dutiyāniyatasikkhāpada",
+    "sentence":"tam'enaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena vadeyya, saṅghādisesena vā pācittiyena vā",
+    "pali":"[and then if] a female lay-follower whose words can betrusted having seen that, should speak according to one of twocases: according to what concerns the community in the beginningand in the rest, or according to expiation",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"AN 2",
+    "source":"dutiyāniyatasikkhāpada",
     "sentence":"nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā",
     "pali":"nisajjaṃ",
     "pos":"noun",
@@ -942,6 +990,22 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"AN 2",
+    "source":"dutiyāniyatasikkhāpada",
+    "sentence":"nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā",
+    "pali":"[then] the bhikkhu dmitting the sitting down is to be made to do according to one oftwo cases according to what concerns the community in thebeginning and in the rest [of the procedure], or according toexpiation,",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"AN 2",
@@ -1150,5 +1214,21 @@
     "construction":"na + ni + √yam + ta",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"AN 2",
+    "source":"dutiyāniyatasikkhāpada",
+    "sentence":"yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayam'pi dhammo aniyato.",
+    "pali":"or according to whatever that female lay-follower whosewords can be trusted should say, according to that the bhikkhu is tobe made to do, this too is an uncertain case.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

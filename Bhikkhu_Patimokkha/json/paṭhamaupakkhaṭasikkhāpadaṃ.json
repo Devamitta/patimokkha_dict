@@ -210,6 +210,22 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 8",
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
     "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
     "pali":"iminā",
     "pos":"pron",
@@ -402,6 +418,22 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "sentence":"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarena acchādessāmī'ti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 8",
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
     "sentence":"tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya",
     "pali":"tatra",
     "pos":"ind",
@@ -556,6 +588,22 @@
     "root":"√pad (go, step)",
     "base":"√pad + ya > pajja",
     "construction":"ā + pajja + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 8",
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "sentence":"tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -834,6 +882,22 @@
   {
     "abbrev":"NP 8",
     "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "sentence":"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī'ti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 8",
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
     "sentence":"kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"kalyāṇakamyataṃ",
     "pos":"noun",
@@ -926,5 +990,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 8",
+    "source":"paṭhamaupakkhaṭasikkhāpadaṃ",
+    "sentence":"kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

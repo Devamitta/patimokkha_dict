@@ -146,6 +146,22 @@
   {
     "abbrev":"NP 14",
     "source":"chabbassasikkhāpadaṃ",
+    "sentence":"navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 14",
+    "source":"chabbassasikkhāpadaṃ",
     "sentence":"orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali":"orena",
     "pos":"ind",
@@ -430,5 +446,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 14",
+    "source":"chabbassasikkhāpadaṃ",
+    "sentence":"orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

@@ -162,6 +162,22 @@
   {
     "abbrev":"NP 20",
     "source":"kayavikkayasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 20",
+    "source":"kayavikkayasikkhāpadaṃ",
     "sentence":"kosiyavaggo dutiyo.",
     "pali":"kosiyavaggo",
     "pos":"noun",
@@ -222,5 +238,21 @@
     "construction":"dvi + tiya",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 20",
+    "source":"kayavikkayasikkhāpadaṃ",
+    "sentence":"kosiyavaggo dutiyo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

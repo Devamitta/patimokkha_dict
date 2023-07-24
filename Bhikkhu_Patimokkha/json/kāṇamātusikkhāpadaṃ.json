@@ -290,6 +290,22 @@
   {
     "abbrev":"PC 34",
     "source":"kāṇamātusikkhāpadaṃ",
+    "sentence":"bhikkhuṃ pan'eva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 34",
+    "source":"kāṇamātusikkhāpadaṃ",
     "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
     "pali":"tato",
     "pos":"ind",
@@ -366,6 +382,22 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 34",
+    "source":"kāṇamātusikkhāpadaṃ",
+    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"PC 34",
@@ -526,5 +558,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 34",
+    "source":"kāṇamātusikkhāpadaṃ",
+    "sentence":"tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

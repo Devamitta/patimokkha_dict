@@ -178,6 +178,22 @@
   {
     "abbrev":"NP 27",
     "source":"mahāpesakārasikkhāpadaṃ",
+    "sentence":"bhikkhuṃ pan'eva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 27",
+    "source":"mahāpesakārasikkhāpadaṃ",
     "sentence":"tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya, idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati",
     "pali":"tatra",
     "pos":"ind",
@@ -460,6 +476,22 @@
     "root":"√ve (weave)",
     "base":"√ve + iya > vīya  > viyya",
     "construction":"viyya + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 27",
+    "source":"mahāpesakārasikkhāpadaṃ",
+    "sentence":"tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya, idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -834,6 +866,22 @@
   {
     "abbrev":"NP 27",
     "source":"mahāpesakārasikkhāpadaṃ",
+    "sentence":"āyatañ'ca karotha, vitthatañ'ca, appitañ'ca, suvītañ'ca, suppavāyitañ'ca, suvilekhitañ'ca, suvitacchitañ'ca karotha",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 27",
+    "source":"mahāpesakārasikkhāpadaṃ",
     "sentence":"app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti.",
     "pali":"appeva",
     "pos":"comp",
@@ -1022,6 +1070,22 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 27",
+    "source":"mahāpesakārasikkhāpadaṃ",
+    "sentence":"app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"NP 27",
@@ -1278,5 +1342,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 27",
+    "source":"mahāpesakārasikkhāpadaṃ",
+    "sentence":"evañ'ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattam'pi, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

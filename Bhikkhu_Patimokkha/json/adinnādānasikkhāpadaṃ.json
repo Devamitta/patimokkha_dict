@@ -194,6 +194,22 @@
   {
     "abbrev":"PA 2",
     "source":"adinnādānasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya",
+    "pali":"If any bhikkhu should take [what has] not been given from a villageor wilderness-area, which is reckoned as theft, [and] the taking ofwhat has not been given",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 2",
+    "source":"adinnādānasikkhāpadaṃ",
     "sentence":"yathārūpe adinn'ādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā",
     "pali":"yathārūpe",
     "pos":"adj",
@@ -434,6 +450,22 @@
   {
     "abbrev":"PA 2",
     "source":"adinnādānasikkhāpadaṃ",
+    "sentence":"yathārūpe adinn'ādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā",
+    "pali":"[is] of the kind [that] on account of [it]kings, having caught the robber, would physically punish orimprison or banish [him]",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 2",
+    "source":"adinnādānasikkhāpadaṃ",
     "sentence":"coro'si bālo'si mūḷho'si theno'sī'ti",
     "pali":"corosi",
     "pos":"comp",
@@ -642,6 +674,22 @@
   {
     "abbrev":"PA 2",
     "source":"adinnādānasikkhāpadaṃ",
+    "sentence":"coro'si bālo'si mūḷho'si theno'sī'ti",
+    "pali":"“You are a robber! You are a fool!You are insane! You are a thief!,”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 2",
+    "source":"adinnādānasikkhāpadaṃ",
     "sentence":"tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayam'pi pārājiko hoti asaṃvāso.",
     "pali":"tathārūpaṃ",
     "pos":"adj",
@@ -830,5 +878,21 @@
     "construction":"na + saṃ + √vas + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PA 2",
+    "source":"adinnādānasikkhāpadaṃ",
+    "sentence":"tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayam'pi pārājiko hoti asaṃvāso.",
+    "pali":"a bhikkhu taking [what has] notbeen given of such a kind, is also disqualified, not in communion.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

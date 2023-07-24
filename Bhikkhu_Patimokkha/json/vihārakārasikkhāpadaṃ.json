@@ -194,6 +194,22 @@
   {
     "abbrev":"SA 7",
     "source":"vihārakārasikkhāpadaṃ",
+    "sentence":"mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ att'uddesaṃ bhikkhū abhinetabbā vatthudesanāya",
+    "pali":"By a bhikkhu who is having a large dwelling built, which has anowner, [and] is designated for himself, bhikkhus are to be broughtto [it] for appointing the site.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 7",
+    "source":"vihārakārasikkhāpadaṃ",
     "sentence":"tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ",
     "pali":"tehi",
     "pos":"pron",
@@ -286,6 +302,22 @@
     "construction":"sa + pari + √kam + ana",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 7",
+    "source":"vihārakārasikkhāpadaṃ",
+    "sentence":"tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ",
+    "pali":"By those bhikkhus a site not entailingharm [to any creatures] [and] having a surrounding space is to beappointed.",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"SA 7",
@@ -494,5 +526,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 7",
+    "source":"vihārakārasikkhāpadaṃ",
+    "sentence":"sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.",
+    "pali":"If a bhikkhu should have a hut built on a site entailingharm [to creatures], [and] not having a surrounding space, or if heshould not bring bhikkhus to [it] for appointing the site, [this is acase concerning] the community in the beginning and in the rest [ofthe procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

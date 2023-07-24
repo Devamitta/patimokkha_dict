@@ -162,6 +162,22 @@
   {
     "abbrev":"NP",
     "source":"nissaggiyapācittiyā",
+    "sentence":"ime kho pan'āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP",
+    "source":"nissaggiyapācittiyā",
     "sentence":"uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā, parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
     "pali":"uddiṭṭhā",
     "pos":"pp",
@@ -546,6 +562,22 @@
   {
     "abbrev":"NP",
     "source":"nissaggiyapācittiyā",
+    "sentence":"uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā, parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP",
+    "source":"nissaggiyapācittiyā",
     "sentence":"tiṃsa nissaggiyā pācittiyā dhammā niṭṭhitā",
     "pali":"tiṃsa",
     "pos":"cardinal",
@@ -620,6 +652,22 @@
     "root":"√ṭhā (stand)",
     "base":"",
     "construction":"ni + √ṭhā + ita",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP",
+    "source":"nissaggiyapācittiyā",
+    "sentence":"tiṃsa nissaggiyā pācittiyā dhammā niṭṭhitā",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   }

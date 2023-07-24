@@ -242,6 +242,22 @@
   {
     "abbrev":"PC 20",
     "source":"sappāṇakasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 20",
+    "source":"sappāṇakasikkhāpadaṃ",
     "sentence":"bhūtagāmavaggo dutiyo.",
     "pali":"bhūtagāmavaggo",
     "pos":"noun",
@@ -302,5 +318,21 @@
     "construction":"dvi + tiya",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 20",
+    "source":"sappāṇakasikkhāpadaṃ",
+    "sentence":"bhūtagāmavaggo dutiyo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

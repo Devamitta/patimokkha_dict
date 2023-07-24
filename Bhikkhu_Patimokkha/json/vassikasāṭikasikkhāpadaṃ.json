@@ -290,6 +290,22 @@
   {
     "abbrev":"NP 24",
     "source":"vassikasāṭikasikkhāpadaṃ",
+    "sentence":"māso seso gimhānan'ti, bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, addhamāso seso gimhānan'ti katvā nivāsetabbaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 24",
+    "source":"vassikasāṭikasikkhāpadaṃ",
     "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"orena",
     "pos":"ind",
@@ -542,5 +558,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 24",
+    "source":"vassikasāṭikasikkhāpadaṃ",
+    "sentence":"orena ce māso seso gimhānan'ti vassikasāṭikacīvaraṃ pariyeseyya, orenaddhamāso seso gimhānan'ti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

@@ -274,6 +274,22 @@
   {
     "abbrev":"NP 15",
     "source":"nisīdanasanthatasikkhāpadaṃ",
+    "sentence":"nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 15",
+    "source":"nisīdanasanthatasikkhāpadaṃ",
     "sentence":"anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṃ, navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"anādā",
     "pos":"verb",
@@ -446,5 +462,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 15",
+    "source":"nisīdanasanthatasikkhāpadaṃ",
+    "sentence":"anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṃ, navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

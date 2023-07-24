@@ -178,6 +178,22 @@
   {
     "abbrev":"SA 8",
     "source":"duṭṭhadosasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya",
+    "pali":"If any bhikkhu, corrupted by malice [and] upset, should accuse abhikkhu with a groundless case involving disqualification",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 8",
+    "source":"duṭṭhadosasikkhāpadaṃ",
     "sentence":"app'eva nāma naṃ imamhā brahmacariyā cāveyyan'ti",
     "pali":"appeva",
     "pos":"comp",
@@ -366,6 +382,22 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 8",
+    "source":"duṭṭhadosasikkhāpadaṃ",
+    "sentence":"app'eva nāma naṃ imamhā brahmacariyā cāveyyan'ti",
+    "pali":"“If only I could make him fall away from this holy life!,”",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"SA 8",
@@ -594,6 +626,22 @@
   {
     "abbrev":"SA 8",
     "source":"duṭṭhadosasikkhāpadaṃ",
+    "sentence":"tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañ'c'eva taṃ adhikaraṇaṃ hoti",
+    "pali":"[and] then, on another occasion, [whether] being interrogated ornot being interrogated, if that legal issue is really groundless",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 8",
+    "source":"duṭṭhadosasikkhāpadaṃ",
     "sentence":"bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
     "pali":"bhikkhu",
     "pos":"noun",
@@ -670,5 +718,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 8",
+    "source":"duṭṭhadosasikkhāpadaṃ",
+    "sentence":"bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
+    "pali":"and ifthe bhikkhu stands firm in malice: [this is a case concerning] thecommunity in the beginning and in the rest [of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

@@ -354,6 +354,22 @@
   {
     "abbrev":"NP 16",
     "source":"eḷakalomasikkhāpadaṃ",
+    "sentence":"bhikkhuno pan'eva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 16",
+    "source":"eḷakalomasikkhāpadaṃ",
     "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
     "pali":"tato",
     "pos":"ind",
@@ -510,5 +526,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 16",
+    "source":"eḷakalomasikkhāpadaṃ",
+    "sentence":"tato ce uttari hareyya, asante'pi hārake, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

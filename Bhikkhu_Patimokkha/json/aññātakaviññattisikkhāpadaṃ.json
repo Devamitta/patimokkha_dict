@@ -290,6 +290,22 @@
   {
     "abbrev":"NP 6",
     "source":"aññātakaviññattisikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 6",
+    "source":"aññātakaviññattisikkhāpadaṃ",
     "sentence":"tatth'āyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.",
     "pali":"tatthāyaṃ",
     "pos":"comp",
@@ -558,5 +574,21 @@
     "construction":"saṃ + √i > ay + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 6",
+    "source":"aññātakaviññattisikkhāpadaṃ",
+    "sentence":"tatth'āyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

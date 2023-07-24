@@ -338,6 +338,22 @@
   {
     "abbrev":"PC 27",
     "source":"saṃvidhānasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gām'antaram'pi aññatra samayā, pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 27",
+    "source":"saṃvidhānasikkhāpadaṃ",
     "sentence":"tatth'āyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.",
     "pali":"tatthāyaṃ",
     "pos":"comp",
@@ -558,5 +574,21 @@
     "construction":"saṃ + √i > ay + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 27",
+    "source":"saṃvidhānasikkhāpadaṃ",
+    "sentence":"tatth'āyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

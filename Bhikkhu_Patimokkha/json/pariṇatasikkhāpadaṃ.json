@@ -178,6 +178,22 @@
   {
     "abbrev":"NP 30",
     "source":"pariṇatasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 30",
+    "source":"pariṇatasikkhāpadaṃ",
     "sentence":"pattavaggo tatiyo.",
     "pali":"pattavaggo",
     "pos":"noun",
@@ -236,6 +252,22 @@
     "root":"",
     "base":"",
     "construction":"ti > ta + tiya",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 30",
+    "source":"pariṇatasikkhāpadaṃ",
+    "sentence":"pattavaggo tatiyo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   }

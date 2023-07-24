@@ -258,6 +258,22 @@
   {
     "abbrev":"NP 9",
     "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "sentence":"bhikkhuṃ pan'eva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 9",
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
     "sentence":"imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarehi acchādessāmā'ti",
     "pali":"imehi",
     "pos":"pron",
@@ -434,6 +450,22 @@
   {
     "abbrev":"NP 9",
     "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "sentence":"imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarehi acchādessāmā'ti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 9",
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
     "sentence":"tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya",
     "pali":"tatra",
     "pos":"ind",
@@ -590,6 +622,22 @@
     "construction":"ā + pajja + ti",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 9",
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "sentence":"tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"NP 9",
@@ -914,6 +962,22 @@
   {
     "abbrev":"NP 9",
     "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "sentence":"sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubho'va santā ekenā'ti",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 9",
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
     "sentence":"kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"kalyāṇakamyataṃ",
     "pos":"noun",
@@ -974,5 +1038,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 9",
+    "source":"dutiyaupakkhaṭasikkhāpadaṃ",
+    "sentence":"kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

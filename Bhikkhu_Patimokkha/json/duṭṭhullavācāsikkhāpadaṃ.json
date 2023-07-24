@@ -162,6 +162,22 @@
   {
     "abbrev":"SA 3",
     "source":"duṭṭhullavācāsikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya",
+    "pali":"If any bhikkhu, under the influence of an altered mind, should speaksuggestively with depraved words to a woman,",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SA 3",
+    "source":"duṭṭhullavācāsikkhāpadaṃ",
     "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
     "pali":"yathā",
     "pos":"ind",
@@ -286,5 +302,21 @@
     "construction":"saṅgha + ādi + sesa",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"SA 3",
+    "source":"duṭṭhullavācāsikkhāpadaṃ",
+    "sentence":"yathā taṃ yuvā yuvatiṃ methun'upasaṃhitāhi, saṅghādiseso.",
+    "pali":"like a young man toa young woman, [with words] concerned with sexual intercourse:[this is a case concerning] the community in the beginning and inthe rest [of the procedure].",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

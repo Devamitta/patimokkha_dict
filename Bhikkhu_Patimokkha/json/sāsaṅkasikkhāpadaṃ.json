@@ -258,6 +258,22 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
+    "sentence":"upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 29",
+    "source":"sāsaṅkasikkhāpadaṃ",
     "sentence":"tathārūpesu bhikkhu sen'āsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya",
     "pali":"tathārūpesu",
     "pos":"adj",
@@ -462,6 +478,22 @@
     "construction":"ni + khipa + ti",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 29",
+    "source":"sāsaṅkasikkhāpadaṃ",
+    "sentence":"tathārūpesu bhikkhu sen'āsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   },
   {
     "abbrev":"NP 29",
@@ -770,6 +802,22 @@
   {
     "abbrev":"NP 29",
     "source":"sāsaṅkasikkhāpadaṃ",
+    "sentence":"siyā ca tassa bhikkhuno koci'd'eva paccayo tena cīvarena vippavāsāya, chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 29",
+    "source":"sāsaṅkasikkhāpadaṃ",
     "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
     "pali":"tato",
     "pos":"ind",
@@ -894,5 +942,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 29",
+    "source":"sāsaṅkasikkhāpadaṃ",
+    "sentence":"tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

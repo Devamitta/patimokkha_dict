@@ -258,6 +258,22 @@
   {
     "abbrev":"NP 23",
     "source":"bhesajjasikkhāpadaṃ",
+    "sentence":"yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ, sappi navanītaṃ telaṃ madhu phāṇitaṃ",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 23",
+    "source":"bhesajjasikkhāpadaṃ",
     "sentence":"tāni paṭiggahetvā satt'āhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
     "pali":"tāni",
     "pos":"pron",
@@ -478,5 +494,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 23",
+    "source":"bhesajjasikkhāpadaṃ",
+    "sentence":"tāni paṭiggahetvā satt'āhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

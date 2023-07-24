@@ -98,6 +98,22 @@
   {
     "abbrev":"PC 32",
     "source":"gaṇabhojanasikkhāpadaṃ",
+    "sentence":"gaṇabhojane aññatra samayā pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 32",
+    "source":"gaṇabhojanasikkhāpadaṃ",
     "sentence":"tatth'āyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāv'ābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.",
     "pali":"tatthāyaṃ",
     "pos":"comp",
@@ -670,5 +686,21 @@
     "construction":"saṃ + √i > ay + *a",
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"PC 32",
+    "source":"gaṇabhojanasikkhāpadaṃ",
+    "sentence":"tatth'āyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāv'ābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]

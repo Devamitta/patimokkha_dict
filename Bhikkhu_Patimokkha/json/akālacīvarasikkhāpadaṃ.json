@@ -162,6 +162,22 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
+    "sentence":"niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno pan'eva akālacīvaraṃ uppajjeyya",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 3",
+    "source":"akālacīvarasikkhāpadaṃ",
     "sentence":"ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam'eva kāretabbaṃ",
     "pali":"ākaṅkhamānena",
     "pos":"prp",
@@ -284,6 +300,22 @@
     "root":"√kar (do, make)",
     "base":"√kar + *e > kāre (caus)",
     "construction":"kāre + tabba",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 3",
+    "source":"akālacīvarasikkhāpadaṃ",
+    "sentence":"ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippam'eva kāretabbaṃ",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
     "compound type":"",
     "compound construction":""
   },
@@ -562,6 +594,22 @@
   {
     "abbrev":"NP 3",
     "source":"akālacīvarasikkhāpadaṃ",
+    "sentence":"no c'assa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"NP 3",
+    "source":"akālacīvarasikkhāpadaṃ",
     "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
     "pali":"tato",
     "pos":"ind",
@@ -718,5 +766,21 @@
     "construction":0,
     "compound type":0,
     "compound construction":0
+  },
+  {
+    "abbrev":"NP 3",
+    "source":"akālacīvarasikkhāpadaṃ",
+    "sentence":"tato ce uttari nikkhipeyya satiyā'pi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+    "pali":"",
+    "pos":"",
+    "grammar":"",
+    "+case":"",
+    "meaning":"",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
   }
 ]
