@@ -27,8 +27,8 @@ sources_json = [sj for sj in sources_json if sj["source"] is not None]
 for sj in sources_json:
     os.makedirs(MAIN_DIR + "/" + sj["source"], exist_ok=True)
     result_df = df[df["source"] == sj["source"]]
-    filtered_result_df = result_df[["abbrev", "source", "sentence", "pali", "pos", "grammar", "+case", "meaning", 
-        "lit. meaning", "root", "base", "construction", "compound type", "compound construction"]].fillna("")
+    filtered_result_df = result_df[["abbrev", "source", "sentence", "pali_1", "pos", "grammar", "case", "meaning", 
+        "meaning_lit", "root", "base", "construction", "compound_type", "compound_construction"]].fillna("")
     filtered_result_df.to_json(DB_DIR + "/" + sj["source"] + ".json", force_ascii=False, orient='records', indent=2)
 
 ## Create a content table
@@ -82,10 +82,10 @@ for source_file in sources_json:
     for ln in line_json:
         if ln["sentence"] != "":
             file.write("<b style=\"font-size:20px\" id=\"" + ln["sentence"].replace(" ", "_") + "\">" + ln["sentence"] + "</b><br>\n")
-            define_df = (line_df[line_df["sentence"] == ln["sentence"]])[["pali", "pos", "grammar", "+case", "meaning", 
-        "lit. meaning", "root", "base", "construction", "compound type", "compound construction"]].fillna("")
+            define_df = (line_df[line_df["sentence"] == ln["sentence"]])[["pali_1", "pos", "grammar", "case", "meaning", 
+        "meaning_lit", "root", "base", "construction", "compound_type", "compound_construction"]].fillna("")
             definition_table = define_df.to_html(justify='left', index=False).replace("0", "")
-            definition_table = definition_table.replace("pali", "pāḷi")
+            definition_table = definition_table.replace("pali_1", "pāḷi")
             
             file.write(definition_table)
             file.write("<br><br>\n")

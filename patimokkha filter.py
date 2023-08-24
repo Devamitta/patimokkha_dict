@@ -16,10 +16,10 @@ filter = test1
 df.loc[filter, ['native']] = ""
 
 # choosing order of columns
-df = df[['pali', 'pos', 'grammar', '+case', 'native', 
-        'meaning', 'lit. meaning', 'root', 'rt gp', 'sign', 'base', 
-        'construction', 'compound type', 'compound construction', 'abbrev', 
-        'source', 'sentence', 'aṭṭhakathā', 'test number']]
+df = df[['pali_1', 'pos', 'grammar', 'case', 'native', 
+        'meaning', 'meaning_lit', 'root', 'root_gp', 'root_sign', 'base', 
+        'construction', 'compound_type', 'compound_construction', 'abbrev', 
+        'source', 'sentence', 'commentary', 'test']]
 df.insert(17, 'feedback', "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500="+df['bhikkhupātimokkhapāḷi']+"\">feedback</a>")    
 
 # save csv
