@@ -43,11 +43,12 @@ class ReadOds:
         self.df['analysis'] = self.df['analysis'][filter]
         self.df['analysis'].drop(["#", "x", "comments"], axis = 1, inplace=True)
         self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, inplace=True)
-        self.df['analysis']['GoogleForm'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali + """&entry.1433863141=Anki">Fix it here</a>."""
+        self.df['analysis']['feedback'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali_1 + """&entry.1433863141=Anki">Fix it here</a>."""
 
         rows = self.df['analysis'].shape[0]
         columns = self.df['analysis'].shape[1]
         self.df['analysis'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=True, quoting=1)
+
         print(f"{timeis()} {green}saving {white}{rows} {green}rows {white}{columns} {green}columns")
         # print(self.df['analysis'])
 
@@ -127,6 +128,17 @@ class ReadOds:
 
         return ret_str.removesuffix('<br/>')
 
+
+    def process_and_save_column_names(self):
+        print(f"{timeis()} {green}saving column names to text file")
+
+        # Save column names to a text file
+        with open('../../sasanarakkha/study-tools/anki-style/field-list-pat.txt', 'w', encoding='utf-8') as txt_file:
+            txt_file.write("\n".join(self.df['analysis'].columns) + "\n")  # Write headings
+
+
+        print(f"{timeis()} {green}column names saved to Column_Names.txt")
+
     
 if __name__ == '__main__':
     tic()
@@ -135,6 +147,7 @@ if __name__ == '__main__':
     print(f"{timeis()} {line}")
     a = ReadOds("original_sources/Pātimokkha Word by Word.ods", ['analysis'])
     a.process_and_save_csv()
+    a.process_and_save_column_names()
     toc()
 
 
