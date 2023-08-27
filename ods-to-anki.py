@@ -1,3 +1,5 @@
+# making csv for anki from ods
+
 import zipfile
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -29,7 +31,10 @@ class ReadOds:
             # header = [it for it in header if it]
             
             n_row = len(header)
-            data = [dict(zip(header, (self.get_columns_in_row(row)[:n_row]))) for row in sheet_rows[1:]]
+            data = [
+                dict(zip(header, 
+                (self.get_columns_in_row(row)[:n_row]))) for row in sheet_rows[1:]
+                ]
         
             self.df[sheet_name] = pd.DataFrame(data)
         
@@ -42,20 +47,25 @@ class ReadOds:
         filter = test1 & test2
         self.df['analysis'] = self.df['analysis'][filter]
         self.df['analysis'].drop(["#", "x", "comments"], axis = 1, inplace=True)
-        self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, inplace=True)
+        self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, 
+            inplace=True)
         self.df['analysis']['feedback'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali_1 + """&entry.1433863141=Anki">Fix it here</a>."""
 
         rows = self.df['analysis'].shape[0]
         columns = self.df['analysis'].shape[1]
-        self.df['analysis'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=True, quoting=1)
+        self.df['analysis'].to_csv('Pātimokkha Word by Word.csv', sep='\t', 
+            index=False, header=True, quoting=1)
 
-        print(f"{timeis()} {green}saving {white}{rows} {green}rows {white}{columns} {green}columns")
+        print(
+            f"{timeis()} {green}saving {white}{rows} {green}rows {white}{columns} {green}columns"
+            )
         # print(self.df['analysis'])
 
     def get_bold_styles(self):
         ''' 
         in xml has office:automatic-styles to configure automatic styles for document
-        each style name is under style:style > style:text-properties [@fo:font-weight="bold"]
+        each style name is under style:style > style:text-properties 
+        [@fo:font-weight="bold"]
         '''
         all_auto_styles = self.soup.find_all('office:automatic-styles')
         all_text_properties = all_auto_styles[0].find_all('style:text-properties')
@@ -133,8 +143,9 @@ class ReadOds:
         print(f"{timeis()} {green}saving column names to text file")
 
         # Save column names to a text file
-        with open('../../sasanarakkha/study-tools/anki-style/field-list-pat.txt', 'w', encoding='utf-8') as txt_file:
-            txt_file.write("\n".join(self.df['analysis'].columns) + "\n")  # Write headings
+        with open('../../sasanarakkha/study-tools/anki-style/field-list-pat.txt', 'w', 
+            encoding='utf-8') as txt_file:
+            txt_file.write("\n".join(self.df['analysis'].columns) + "\n")  # + headings
 
 
         print(f"{timeis()} {green}column names saved to Column_Names.txt")

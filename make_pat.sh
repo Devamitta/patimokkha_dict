@@ -1,24 +1,16 @@
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "moving Patimokkha ods from Downloads"
+echo "make sure the latest version of Patimokkha ods in Downloads"
+
+exec > >(tee "/home/deva/logs/mkpat.log") 2>&1
+
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo "moving Patimokkha ods from Downloads"
 
 mv "/home/deva/Downloads/Pātimokkha Word by Word.ods" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.ods"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "making Patimokkha csv with bold for Anki- ods-to-anki.py"
-echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-# echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-# echo "making Patimokkha csv with bold - ods-to-csv-headers.py"
-# echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-
-# poetry run python ods-to-csv-headers.py "original_sources/Pātimokkha Word by Word.ods" Sheet1 20
-
-# echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-# echo "filtering words that have been done"
-# echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-
-# poetry run python "patimokkha filter.py"
 
 poetry run python ods-to-anki.py
 
@@ -29,3 +21,7 @@ mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/hom
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo -e "\033[34manki-patimokkha.csv moved to csv-for-anki\033[0m"
+
+
+poetry run python patimokkha_dict.py
+echo "HTML updated please push on github"
