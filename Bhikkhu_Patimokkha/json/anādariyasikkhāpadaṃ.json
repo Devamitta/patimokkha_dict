@@ -3,32 +3,32 @@
     "abbrev":"PC 54",
     "source":"anādariyasikkhāpadaṃ",
     "sentence":"anādariye pācittiyaṃ.",
-    "pali":"anādariye",
+    "pali_1":"anādariye",
     "pos":"noun",
     "grammar":"nt loc sg of anādariya",
-    "+case":"",
+    "case":"",
     "meaning":"in disrespect, in rudeness",
-    "lit. meaning":"",
+    "meaning_lit":"",
     "root":"√dar (respect, have affection)",
     "base":"",
     "construction":"na + ā + √dar + iya",
-    "compound type":"",
-    "compound construction":""
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"PC 54",
     "source":"anādariyasikkhāpadaṃ",
     "sentence":"anādariye pācittiyaṃ.",
-    "pali":"pācittiyaṃ",
+    "pali_1":"pācittiyaṃ",
     "pos":"adj",
     "grammar":"nt nom sg of pācittiya",
-    "+case":"+loc",
+    "case":"+loc",
     "meaning":"requiring confession",
-    "lit. meaning":0,
+    "meaning_lit":0,
     "root":0,
     "base":0,
     "construction":0,
-    "compound type":0,
-    "compound construction":0
+    "compound_type":0,
+    "compound_construction":0
   }
 ]
