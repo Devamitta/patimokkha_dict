@@ -17,10 +17,10 @@ poetry run python ods-to-anki.py
 echo "process completed"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/home/deva/Documents/dpd-db/dps/csvs/anki_csvs/anki-patimokkha.csv"
+mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/home/deva/Documents/dpd-db/dps/csvs/anki_csvs/anki_atimokkha.csv"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo -e "\033[34manki-patimokkha.csv moved to csv-for-anki\033[0m"
+echo -e "\033[34manki_atimokkha.csv moved to csv-for-anki\033[0m"
 
 
 poetry run python patimokkha_dict.py
