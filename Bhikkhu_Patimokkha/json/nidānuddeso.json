@@ -371,7 +371,7 @@
     "abbrev":"NI",
     "source":"nidānuddeso",
     "sentence":"yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.",
-    "pali_1":"- patta (1)",
+    "pali_1":"- patta 1",
     "pos":"pp",
     "grammar":"pp of of pāpuṇāti",
     "case":"+acc",
@@ -2354,7 +2354,7 @@
   {
     "abbrev":"NI",
     "source":"nidānuddeso",
-    "sentence":"āvikatā hi'ssa phāsu hoti.",
+    "sentence":"āvikatā hi-assa phāsu hoti.",
     "pali_1":"- assa",
     "pos":"pron",
     "grammar":"masc dat sg of ta",
