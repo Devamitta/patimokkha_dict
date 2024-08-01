@@ -6,7 +6,15 @@ exec > >(tee "/home/deva/logs/mkpat.log") 2>&1
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "moving Patimokkha ods from Downloads"
 
-mv "/home/deva/Downloads/Pātimokkha Word by Word.ods" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.ods"
+# mv "/home/deva/Downloads/Pātimokkha Word by Word.ods" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.ods"
+
+mv "/home/deva/Downloads/Pātimokkha Word by Word.xlsx" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.xlsx"
+
+cd origin_sources
+
+libreoffice --headless --convert-to ods Pātimokkha\ Word\ by\ Word.xlsx
+
+cd ..
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "making Patimokkha csv with bold for Anki- ods-to-anki.py"
