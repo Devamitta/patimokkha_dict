@@ -10,7 +10,7 @@ echo "moving Patimokkha ods from Downloads"
 
 mv "/home/deva/Downloads/Pātimokkha Word by Word.xlsx" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.xlsx"
 
-cd origin_sources
+cd original_sources
 
 libreoffice --headless --convert-to ods Pātimokkha\ Word\ by\ Word.xlsx
 
