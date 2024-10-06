@@ -28,7 +28,7 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/home/deva/Documents/dpd-db/dps/csvs/anki_csvs/anki_patimokkha.csv"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo -e "\033[34manki_atimokkha.csv moved to csv-for-anki\033[0m"
+echo -e "\033[34manki_patimokkha.csv moved to csv-for-anki\033[0m"
 
 poetry run python patimokkha_dict.py
 echo "HTML updated please push on github"
