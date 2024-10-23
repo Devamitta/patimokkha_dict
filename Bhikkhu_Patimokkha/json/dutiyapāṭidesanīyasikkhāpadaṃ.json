@@ -8,7 +8,7 @@
     "grammar":"masc nom pl, from bhikkhati",
     "case":0,
     "meaning":"monks, monastics",
-    "meaning_lit":"beggar, mendicant",
+    "meaning_lit":"beggars, mendicants",
     "root":"√bhikkh (beg)",
     "base":0,
     "construction":"√bhikkh + u",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"idha",
     "pos":"ind",
     "grammar":"adv",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"sūpaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of sūpa",
@@ -258,7 +258,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"detha",
     "pos":"verb",
     "grammar":"imp 2nd pl of detu",
@@ -274,7 +274,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"idha",
     "pos":"ind",
     "grammar":"adv",
@@ -290,7 +290,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"odanaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of odana",
@@ -298,15 +298,15 @@
     "meaning":"rice",
     "meaning_lit":"wet, boiled",
     "root":"√ud (be wet)",
-    "base":"√ud + *e > ode",
-    "construction":"ode + ana",
+    "base":"",
+    "construction":"√ud > od + *ana",
     "compound_type":"",
     "compound_construction":""
   },
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"dethāti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -322,7 +322,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘idha sūpaṃ detha, idha odanaṃ dethā’ti.",
+    "sentence":"idha sūpaṃ detha, idha odanaṃ dethā’ti.",
     "pali_1":"detha",
     "pos":"verb",
     "grammar":"imp 2nd pl of detu",
@@ -418,7 +418,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"apasakka",
     "pos":"verb",
     "grammar":"imp 2nd sg of apasakkatu, from apasakkati",
@@ -434,7 +434,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"tāva",
     "pos":"ind",
     "grammar":"adv",
@@ -450,7 +450,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"bhagini",
     "pos":"noun",
     "grammar":"fem voc of bhaginī",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"yāva",
     "pos":"ind",
     "grammar":"adv, prep",
@@ -482,13 +482,13 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
     "case":0,
     "meaning":"monks, monastics",
-    "meaning_lit":"beggar, mendicant",
+    "meaning_lit":"beggars, mendicants",
     "root":"√bhikkh (beg)",
     "base":0,
     "construction":"√bhikkh + u",
@@ -498,7 +498,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"bhuñjantīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -514,7 +514,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"- bhuñjanti",
     "pos":"verb",
     "grammar":"pr 3rd pl of bhuñjati",
@@ -530,7 +530,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":0,
@@ -722,7 +722,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"apasakka",
     "pos":"verb",
     "grammar":"imp 2nd sg of apasakkatu, from apasakkati",
@@ -738,7 +738,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"tāva",
     "pos":"ind",
     "grammar":"adv",
@@ -754,7 +754,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"bhagini",
     "pos":"noun",
     "grammar":"fem voc of bhaginī",
@@ -770,7 +770,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"yāva",
     "pos":"ind",
     "grammar":"adv, prep",
@@ -786,13 +786,13 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
     "case":0,
     "meaning":"monks, monastics",
-    "meaning_lit":"beggar, mendicant",
+    "meaning_lit":"beggars, mendicants",
     "root":"√bhikkh (beg)",
     "base":0,
     "construction":"√bhikkh + u",
@@ -802,7 +802,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘‘apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti,",
+    "sentence":"apasakka tāva bhagini, yāva bhikkhū bhuñjantī’ti",
     "pali_1":"bhuñjantīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -818,7 +818,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"paṭidesetabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of paṭidesetabba",
@@ -834,7 +834,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"tehi",
     "pos":"pron",
     "grammar":"masc instr pl of ta",
@@ -850,7 +850,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"bhikkhūhi",
     "pos":"noun",
     "grammar":"masc instr pl of bhikkhu",
@@ -866,7 +866,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"gārayhaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of gārayha",
@@ -882,7 +882,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"āvuso",
     "pos":"noun",
     "grammar":"masc voc sg or pl of āyasmantu",
@@ -898,7 +898,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"dhammaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
@@ -914,7 +914,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"āpajjimhā",
     "pos":"verb",
     "grammar":"aor 1st pl of āpajji, from āpajjati",
@@ -930,7 +930,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"asappāyaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of asappāya",
@@ -946,7 +946,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"pāṭidesanīyaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of pāṭidesanīya",
@@ -962,7 +962,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc acc sg of ta",
@@ -978,7 +978,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"paṭidesemāti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -994,7 +994,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"- paṭidesema",
     "pos":"verb",
     "grammar":"pr 1st pl of paṭidesati",
@@ -1010,7 +1010,7 @@
   {
     "abbrev":"PD 2",
     "source":"dutiyapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
+    "sentence":"paṭidesetabbaṃ tehi bhikkhūhi gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā’ti.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":0,

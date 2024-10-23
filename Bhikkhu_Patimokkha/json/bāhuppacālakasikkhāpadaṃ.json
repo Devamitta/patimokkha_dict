@@ -130,7 +130,7 @@
   {
     "abbrev":"SE 18",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaragharenisīdissāmīti sikkhā karaṇīyā.",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
@@ -146,7 +146,7 @@
   {
     "abbrev":"SE 17",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"bāhuppacālakaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of bāhuppacālaka",
@@ -162,7 +162,7 @@
   {
     "abbrev":"SE 17",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"antaraghare",
     "pos":"noun",
     "grammar":"nt loc sg of antaraghara",
@@ -178,7 +178,7 @@
   {
     "abbrev":"SE 17",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"nisīdissāmīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -194,7 +194,7 @@
   {
     "abbrev":"SE 17",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg",
@@ -210,7 +210,7 @@
   {
     "abbrev":"SE 17",
     "source":"bāhuppacālakasikkhāpadaṃ",
-    "sentence":"na bāhuppacālakaṃ antaraghare gamissāmī'ti sikkhā karaṇīyā",
+    "sentence":"na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti",

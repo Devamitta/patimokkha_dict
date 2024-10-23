@@ -450,7 +450,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"tañce",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
@@ -482,7 +482,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"aññe",
     "pos":"pron",
     "grammar":"masc nom pl of añña",
@@ -498,13 +498,13 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
     "case":0,
     "meaning":"monks, monastics",
-    "meaning_lit":"beggar, mendicant",
+    "meaning_lit":"beggars, mendicants",
     "root":"√bhikkh (beg)",
     "base":0,
     "construction":"√bhikkh + u",
@@ -514,7 +514,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"jāneyyuṃ",
     "pos":"verb",
     "grammar":"opt 3rd pl of jānāti",
@@ -530,7 +530,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"nisinnapubbaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of nisinnapubba",
@@ -546,7 +546,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"- nisinna",
     "pos":"pp",
     "grammar":"pp of nisīdati",
@@ -562,7 +562,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"- pubbaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of pubba",
@@ -578,7 +578,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"iminā",
     "pos":"pron",
     "grammar":"nt instr sg ima",
@@ -594,7 +594,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -610,7 +610,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"dvattikkhattuṃ",
     "pos":"ind",
     "grammar":"adv, comp",
@@ -626,7 +626,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"pātimokkhe",
     "pos":"noun",
     "grammar":"masc loc sg of pātimokkha, loc abs",
@@ -642,7 +642,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"uddissamāne",
     "pos":"prp",
     "grammar":"masc loc sg of uddissamāna",
@@ -658,7 +658,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"ko",
     "pos":"pron",
     "grammar":"masc nom sg",
@@ -674,7 +674,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":0,
@@ -690,7 +690,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"vādo",
     "pos":"noun",
     "grammar":"masc nom sg of vāda",
@@ -706,7 +706,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"bhiyyoti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -722,7 +722,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"bhiyyo",
     "pos":"ind",
     "grammar":"ind, adv",
@@ -738,7 +738,7 @@
   {
     "abbrev":"PC 73",
     "source":"mohanasikkhāpadaṃ",
-    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti,",
+    "sentence":"tañ'ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":0,
@@ -1463,8 +1463,8 @@
     "pos":"noun",
     "grammar":"masc loc sg of mahanka",
     "case":"",
-    "meaning":"pretending not to know",
-    "meaning_lit":"making confusion",
+    "meaning":"in pretending not to know",
+    "meaning_lit":"in making confusion",
     "root":"√muh (be deluded, confused)",
     "base":"√muh + *e > mohe (caus)",
     "construction":"mohe + ana + ka",

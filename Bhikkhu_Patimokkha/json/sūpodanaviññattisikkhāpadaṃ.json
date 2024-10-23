@@ -58,8 +58,8 @@
     "meaning":"rice",
     "meaning_lit":"wet, boiled",
     "root":"√ud (be wet)",
-    "base":"√ud + *e > ode",
-    "construction":"ode + ana",
+    "base":0,
+    "construction":"√ud > od + *ana",
     "compound_type":0,
     "compound_construction":0
   },

@@ -162,7 +162,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"yathāsanthutaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of yathāsanthuta",
@@ -178,7 +178,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"- yathā",
     "pos":"ind",
     "grammar":"adv",
@@ -194,7 +194,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"- santhutaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of santhuta",
@@ -210,13 +210,13 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"bhikkhū",
     "pos":"noun",
     "grammar":"masc nom pl, from bhikkhati",
     "case":0,
     "meaning":"monks, monastics",
-    "meaning_lit":"beggar, mendicant",
+    "meaning_lit":"beggars, mendicants",
     "root":"√bhikkh (beg)",
     "base":0,
     "construction":"√bhikkh + u",
@@ -226,7 +226,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"saṅghikaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of saṅghika",
@@ -242,7 +242,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"lābhaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of lābha",
@@ -258,7 +258,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"pariṇāmentīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -274,7 +274,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"- pariṇāmenti",
     "pos":"verb",
     "grammar":"pr 3rd pl of pariṇāmeti",
@@ -290,7 +290,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"- iti",
     "pos":"ind",
     "grammar":0,
@@ -306,7 +306,7 @@
   {
     "abbrev":"PC 81",
     "source":"dubbalasikkhāpadaṃ",
-    "sentence":"‘‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
+    "sentence":"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiyaṃ.",
     "pali_1":"pācittiyaṃ",
     "pos":"adj",
     "grammar":"nt nom sg of pācittiya",

@@ -2,7 +2,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"vassikasāṭikaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of vassikasāṭikā",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"- vassika",
     "pos":"adj",
     "grammar":"from vassa",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"- sāṭikaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of sāṭikā",
@@ -50,7 +50,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":0,
@@ -66,7 +66,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -82,7 +82,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"kārayamānena",
     "pos":"prp",
     "grammar":"masc instr sg of kārayamāna, from kāreti",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"pamāṇikā",
     "pos":"adj",
     "grammar":"fem nom sg",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PC 91",
     "source":"vassikasāṭikāsikkhāpadaṃ",
-    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā,",
+    "sentence":"vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā",
     "pali_1":"kāretabbā",
     "pos":"ptp",
     "grammar":"fem nom sg of kāretabba",

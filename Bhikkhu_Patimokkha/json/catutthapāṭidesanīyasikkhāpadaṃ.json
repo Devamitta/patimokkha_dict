@@ -2,7 +2,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"yāni",
     "pos":"pron",
     "grammar":"nt nom pl of ya",
@@ -18,7 +18,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
@@ -34,7 +34,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"pana",
     "pos":"ind",
     "grammar":0,
@@ -50,7 +50,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"tāni",
     "pos":"pron",
     "grammar":"nt nom pl of ta",
@@ -66,12 +66,12 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"āraññakāni",
     "pos":"adj",
     "grammar":"nt nom pl of āraññaka",
     "case":0,
-    "meaning":"forest, wood",
+    "meaning":"forest, wild",
     "meaning_lit":"related to the forest",
     "root":"√ar (move, attain)",
     "base":0,
@@ -82,13 +82,13 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"senāsanāni",
     "pos":"noun",
     "grammar":"nt nom pl of senāsana",
     "case":0,
-    "meaning":"dwelling, kuṭi",
-    "meaning_lit":"bed and seat",
+    "meaning":"dwellings, kuṭis",
+    "meaning_lit":"beds and seats",
     "root":0,
     "base":0,
     "construction":"sena + āsana",
@@ -98,7 +98,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"sāsaṅkasammatāni",
     "pos":"adj",
     "grammar":"nt nom pl of sāsaṅkasammata",
@@ -114,7 +114,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"- sāsaṅka",
     "pos":"adj",
     "grammar":0,
@@ -130,7 +130,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"- sammatāni",
     "pos":"adj",
     "grammar":"nt nom pl of sammata",
@@ -146,7 +146,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni,",
+    "sentence":"yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni",
     "pali_1":"sappaṭibhayāni",
     "pos":"adj",
     "grammar":"nt nom pl of sappaṭibhaya",
@@ -402,7 +402,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"agilāno khādeyya vā, bhuñjeyya vā,",
+    "sentence":"agilāno khādeyya vā, bhuñjeyya vā",
     "pali_1":"agilāno",
     "pos":"adj",
     "grammar":"masc nom sg of agilāna",
@@ -418,7 +418,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"agilāno khādeyya vā, bhuñjeyya vā,",
+    "sentence":"agilāno khādeyya vā, bhuñjeyya vā",
     "pali_1":"khādeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of khādati",
@@ -434,7 +434,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"agilāno khādeyya vā, bhuñjeyya vā,",
+    "sentence":"agilāno khādeyya vā, bhuñjeyya vā",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -450,7 +450,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"agilāno khādeyya vā, bhuñjeyya vā,",
+    "sentence":"agilāno khādeyya vā, bhuñjeyya vā",
     "pali_1":"bhuñjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of bhuñjati",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"agilāno khādeyya vā, bhuñjeyya vā,",
+    "sentence":"agilāno khādeyya vā, bhuñjeyya vā",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -482,7 +482,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"paṭidesetabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of paṭidesetabba",
@@ -498,7 +498,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"tena",
     "pos":"pron",
     "grammar":"masc instr sg of ta",
@@ -514,7 +514,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
@@ -530,7 +530,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"gārayhaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of gārayha",
@@ -546,7 +546,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"āvuso",
     "pos":"noun",
     "grammar":"masc voc sg or pl of āyasmantu",
@@ -562,7 +562,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"dhammaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
@@ -578,7 +578,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"āpajjiṃ",
     "pos":"verb",
     "grammar":"aor 1st sg of āpajji",
@@ -594,7 +594,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"asappāyaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of asappāya",
@@ -610,7 +610,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"pāṭidesanīyaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of pāṭidesanīya",
@@ -626,7 +626,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc acc sg of ta",
@@ -642,7 +642,7 @@
   {
     "abbrev":"PD 4",
     "source":"catutthapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"paṭidesetabbaṃ tena bhikkhunā ‘‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"paṭidesetabbaṃ tena bhikkhunā gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"paṭidesemīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",

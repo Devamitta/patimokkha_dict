@@ -103,7 +103,7 @@
     "pos":"pp",
     "grammar":"fem gen sg of paviṭṭha",
     "case":"",
-    "meaning":"who has entered",
+    "meaning":"of (nun) who has entered",
     "meaning_lit":"",
     "root":"√vis (enter)",
     "base":"",
@@ -338,7 +338,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"gārayhaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of gārayha",
@@ -354,7 +354,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"āvuso",
     "pos":"noun",
     "grammar":"masc voc sg or pl of āyasmantu",
@@ -370,7 +370,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"dhammaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
@@ -386,7 +386,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"āpajjiṃ",
     "pos":"verb",
     "grammar":"aor 1st sg of āpajji",
@@ -402,7 +402,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"asappāyaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of asappāya",
@@ -418,7 +418,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"pāṭidesanīyaṃ",
     "pos":"ptp",
     "grammar":"masc acc sg of pāṭidesanīya",
@@ -434,7 +434,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc acc sg of ta",
@@ -450,7 +450,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"paṭidesemīti",
     "pos":"comp",
     "grammar":"sandhi, pr + ind",
@@ -466,7 +466,7 @@
   {
     "abbrev":"PD 1",
     "source":"paṭhamapāṭidesanīyasikkhāpadaṃ",
-    "sentence":"‘gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
+    "sentence":"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī’ti.",
     "pali_1":"paṭidesemi",
     "pos":"verb",
     "grammar":"pr 1st sg of paṭideseti",
