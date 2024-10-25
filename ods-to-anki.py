@@ -142,10 +142,14 @@ class ReadOds:
     def process_and_save_column_names(self):
         print(f"{timeis()} {green}saving column names to text file")
 
+        # Add the "notez" column name to the list of column names
+        column_names = list(self.df['analysis'].columns)
+        column_names.append("notez")
+
         # Save column names to a text file
         with open('../../sasanarakkha/study-tools/anki-style/field-list-pat.txt', 'w', 
             encoding='utf-8') as txt_file:
-            txt_file.write("\n".join(self.df['analysis'].columns) + "\n")  # + headings
+            txt_file.write("\n".join(column_names) + "\n")  # + headings
 
 
         print(f"{timeis()} {green}column names saved to Column_Names.txt")
