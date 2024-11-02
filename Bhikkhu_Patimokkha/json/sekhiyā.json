@@ -516,15 +516,15 @@
     "source":"sekhiyā",
     "sentence":"sekhiyā dhammā niṭṭhitā.",
     "pali_1":"niṭṭhitā",
-    "pos":"Err:522",
-    "grammar":"Err:522",
-    "case":"Err:522",
-    "meaning":"Err:522",
-    "meaning_lit":"Err:522",
-    "root":"Err:522",
-    "base":"Err:522",
-    "construction":"Err:522",
-    "compound_type":"Err:522",
-    "compound_construction":"Err:522"
+    "pos":"pp",
+    "grammar":"masc nom pl of niṭṭhita",
+    "case":0,
+    "meaning":"finished",
+    "meaning_lit":0,
+    "root":"√ṭhā (stand)",
+    "base":0,
+    "construction":"ni + √ṭhā + ita",
+    "compound_type":0,
+    "compound_construction":0
   }
 ]
