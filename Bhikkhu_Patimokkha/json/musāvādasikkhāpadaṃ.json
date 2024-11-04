@@ -54,14 +54,14 @@
     "pali_1":"- - musā",
     "pos":"ind",
     "grammar":"adv, instr sg",
-    "case":0,
+    "case":"",
     "meaning":"false, falsely, wrongly",
-    "meaning_lit":0,
+    "meaning_lit":"",
     "root":"√mus (lie, forget)",
-    "base":0,
+    "base":"",
     "construction":"√mus + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"PC 01",
