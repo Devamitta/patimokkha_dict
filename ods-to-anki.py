@@ -4,6 +4,8 @@ import zipfile
 from bs4 import BeautifulSoup
 import pandas as pd
 from timeis import timeis, green, yellow, line, white, tic, toc
+import datetime
+
 
 
 class ReadOds:
@@ -47,9 +49,9 @@ class ReadOds:
         filter = test1 & test2
         self.df['analysis'] = self.df['analysis'][filter]
         self.df['analysis'].drop(["#", "x", "comments"], axis = 1, inplace=True)
-        self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, 
+        self.df['analysis'].drop(self.df['analysis'].iloc[:, 19:], axis = 1, 
             inplace=True)
-        # Add column with order
+        self.df['analysis']['test'] = pd.to_datetime('today').strftime('%d-%m')
         self.df['analysis']['order'] = range(1, len(self.df['analysis']) + 1)
     
         self.df['analysis']['feedback'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali_1 + """&entry.1433863141=Anki">Fix it here</a>."""
