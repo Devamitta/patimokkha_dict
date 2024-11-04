@@ -47,7 +47,7 @@ class ReadOds:
         filter = test1 & test2
         self.df['analysis'] = self.df['analysis'][filter]
         self.df['analysis'].drop(["#", "x", "comments"], axis = 1, inplace=True)
-        self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, 
+        self.df['analysis'].drop(self.df['analysis'].iloc[:, 21:], axis = 1, 
             inplace=True)
         self.df['analysis']['feedback'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali_1 + """&entry.1433863141=Anki">Fix it here</a>."""
 
