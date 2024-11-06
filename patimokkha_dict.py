@@ -81,6 +81,10 @@ for source_file in sources_json:
     file.write("<a class=\"active\" href=\"../main.html\">Home</a>\n")
     file.write("<a href=\"#" + source_file["source"] + "\"><b>[" + 
         source_file["abbrev"] + "] " + source_file["source"] + "</b></a>\n")
+    file.write(
+        "<a class=\"link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url\" "
+        "style=\"float:right;\">Feedback</a>\n"
+    )
     file.write("</div>\n")
 
     file.write("<h1>" + source_file["abbrev"]+ "\t" + source_file["source"] + "</h1>\n")
