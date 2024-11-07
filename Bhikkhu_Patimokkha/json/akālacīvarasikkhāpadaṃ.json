@@ -341,7 +341,7 @@
     "sentence":"no c'assa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya.",
     "pali_1":"cassa",
     "pos":"comp",
-    "grammar":"sandhi, pr + ind",
+    "grammar":"sandhi, ind + opt",
     "case":"",
     "meaning":"if it would be",
     "meaning_lit":"",
