@@ -99,17 +99,17 @@
     "abbrev":"PC 63",
     "source":"ukkoṭanasikkhāpadaṃ",
     "sentence":"yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.",
-    "pali_1":"- dhammaṃ",
+    "pali_1":"- dhammaṃ 2",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
-    "case":0,
+    "case":"",
     "meaning":"law, rule",
-    "meaning_lit":0,
+    "meaning_lit":"",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"PC 63",

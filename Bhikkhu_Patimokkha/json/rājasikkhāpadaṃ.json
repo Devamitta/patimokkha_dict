@@ -2838,14 +2838,14 @@
     "pali_1":"- tuṇhī",
     "pos":"ind",
     "grammar":"adv",
-    "case":"",
+    "case":0,
     "meaning":"silent, silence, silently",
-    "meaning_lit":"",
-    "root":"",
-    "base":"",
-    "construction":"",
-    "compound_type":"",
-    "compound_construction":""
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 10",

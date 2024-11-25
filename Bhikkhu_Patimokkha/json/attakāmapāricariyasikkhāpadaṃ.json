@@ -438,14 +438,14 @@
     "pali_1":"- dhammaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
-    "case":0,
+    "case":"",
     "meaning":"nature; character",
-    "meaning_lit":0,
+    "meaning_lit":"",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"SA 4",
