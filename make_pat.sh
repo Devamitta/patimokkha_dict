@@ -1,5 +1,7 @@
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "make sure the latest version of Patimokkha ods in Downloads"
+# echo "make sure the latest version of Patimokkha ods in Downloads"
+
+bash download_patimokkha.sh
 
 exec > >(tee "/home/deva/logs/mkpat.log") 2>&1
 
