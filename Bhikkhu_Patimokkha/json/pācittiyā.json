@@ -53,15 +53,15 @@
     "sentence":"ime kho pan'āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.",
     "pali_1":"dvenavuti",
     "pos":"cardinal",
-    "grammar":"fem nom sg",
+    "grammar":"fem nom sg, comp",
     "case":"",
     "meaning":"ninety two",
     "meaning_lit":"",
     "root":"",
     "base":"",
     "construction":"dve + navuti",
-    "compound_type":"",
-    "compound_construction":""
+    "compound_type":"dvanda",
+    "compound_construction":"dve ca navuti ca"
   },
   {
     "abbrev":"PC ",
@@ -245,15 +245,15 @@
     "sentence":"uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā.",
     "pali_1":"dvenavuti",
     "pos":"cardinal",
-    "grammar":"fem nom sg",
+    "grammar":"fem nom sg, comp",
     "case":0,
     "meaning":"ninety two",
     "meaning_lit":0,
     "root":0,
     "base":0,
     "construction":"dve + navuti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"dvanda",
+    "compound_construction":"dve ca navuti ca"
   },
   {
     "abbrev":"PC",
@@ -565,15 +565,15 @@
     "sentence":"dvenavuti pācittiyā dhammā niṭṭhitā.",
     "pali_1":"dvenavuti",
     "pos":"cardinal",
-    "grammar":"fem nom sg",
+    "grammar":"fem nom sg, comp",
     "case":0,
     "meaning":"ninety two",
     "meaning_lit":0,
     "root":0,
     "base":0,
     "construction":"dve + navuti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"dvanda",
+    "compound_construction":"dve ca navuti ca"
   },
   {
     "abbrev":"PC",

@@ -2149,15 +2149,15 @@
     "sentence":"yāvatatiyañ'ce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, icc'etaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
-    "grammar":"masc nom sg of saṅghādisesa",
+    "grammar":"masc nom sg of saṅghādisesa, comp",
     "case":0,
-    "meaning":"offence requiring the involvement of the community in the beginning and the rest",
-    "meaning_lit":"with the community in the beginning and the rest",
+    "meaning":"offence requiring suspension",
+    "meaning_lit":"offence requiring involvement of the community from start to finish",
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"SA 11",

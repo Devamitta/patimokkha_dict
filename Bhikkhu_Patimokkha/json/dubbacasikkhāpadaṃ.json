@@ -198,14 +198,14 @@
     "pali_1":"- sikkhā",
     "pos":"noun",
     "grammar":"fem, from sikkhati",
-    "case":0,
+    "case":"",
     "meaning":"training (in sīla)",
-    "meaning_lit":0,
+    "meaning_lit":"",
     "root":"√sikkh (train)",
-    "base":0,
+    "base":"",
     "construction":"√sikkh + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"",
+    "compound_construction":""
   },
   {
     "abbrev":"SA 12",
@@ -1989,15 +1989,15 @@
     "sentence":"yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
-    "grammar":"masc nom sg of saṅghādisesa",
+    "grammar":"masc nom sg of saṅghādisesa, comp",
     "case":0,
-    "meaning":"offence requiring the involvement of the community in the beginning and the rest",
-    "meaning_lit":"with the community in the beginning and the rest",
+    "meaning":"offence requiring suspension",
+    "meaning_lit":"offence requiring involvement of the community from start to finish",
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"SA 12",

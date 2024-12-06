@@ -85,15 +85,15 @@
     "sentence":"yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.",
     "pali_1":"saṅghādisesena",
     "pos":"adj",
-    "grammar":"masc instr sg of saṅghādisesa",
+    "grammar":"masc instr sg of saṅghādisesa, comp",
     "case":0,
-    "meaning":"with an (offence) requiring the involvement of the community in the beginning and the rest",
-    "meaning_lit":"with the community in the beginning and the rest",
+    "meaning":"with (a matter) related to an offence requiring suspension",
+    "meaning_lit":"related to an offence requiring involvement of the community from start to finish",
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
     "compound_type":0,
-    "compound_construction":0
+    "compound_construction":"sattamī tappurisa"
   },
   {
     "abbrev":"PC 76",
