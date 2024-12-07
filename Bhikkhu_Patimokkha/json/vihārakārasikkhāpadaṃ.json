@@ -9,9 +9,9 @@
     "case":"",
     "meaning":"large, big",
     "meaning_lit":"",
-    "root":"",
+    "root":"√mah (increase)",
     "base":"",
-    "construction":"mahā + la + ka",
+    "construction":"√mah + ā + la + ka",
     "compound_type":"",
     "compound_construction":""
   },
@@ -76,8 +76,8 @@
     "root":"√kar (do, make)",
     "base":"√kar + *aya > kāraya (caus)",
     "construction":"kāraya + māna",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"kāraya + māna",
+    "compound_construction":"kāraya + māna"
   },
   {
     "abbrev":"SA 7",
@@ -85,15 +85,15 @@
     "sentence":"mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ att'uddesaṃ bhikkhū abhinetabbā vatthudesanāya",
     "pali_1":"sassāmikaṃ",
     "pos":"adj",
-    "grammar":"masc acc sg of sassāmika, from sāmī",
+    "grammar":"masc acc sg of sassāmika, from sāmī, comp",
     "case":"",
     "meaning":"with a benefactor, with a donor",
     "meaning_lit":"with master",
     "root":"",
     "base":"",
     "construction":"sa + sāmī + ka",
-    "compound_type":"",
-    "compound_construction":""
+    "compound_type":"kammadhāraya",
+    "compound_construction":"sa + sāmika"
   },
   {
     "abbrev":"SA 7",
@@ -101,7 +101,7 @@
     "sentence":"mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ att'uddesaṃ bhikkhū abhinetabbā vatthudesanāya",
     "pali_1":"attuddesaṃ",
     "pos":"adj",
-    "grammar":"fem acc sg of attuddesa",
+    "grammar":"fem acc sg of attuddesa, comp",
     "case":0,
     "meaning":"designated for oneself",
     "meaning_lit":0,
@@ -171,7 +171,7 @@
     "meaning_lit":0,
     "root":"√vas (live)",
     "base":0,
-    "construction":"√vas + tha + u",
+    "construction":"√vas + tu",
     "compound_type":0,
     "compound_construction":0
   },
@@ -251,7 +251,7 @@
     "meaning_lit":0,
     "root":"√vas (live)",
     "base":0,
-    "construction":"√vas + tha + u",
+    "construction":"√vas + tu",
     "compound_type":0,
     "compound_construction":0
   },
@@ -282,8 +282,8 @@
     "meaning":"not harmful, not injurious",
     "meaning_lit":"without violence",
     "root":"√rabh (be violent)",
-    "base":0,
-    "construction":"na + ā + √rabh > rambh + a",
+    "base":"√rabh + a > rabha > rambha (irreg)",
+    "construction":"na > an + ā + rambha + a",
     "compound_type":0,
     "compound_construction":0
   },
@@ -325,15 +325,15 @@
     "sentence":"sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.",
     "pali_1":"sārambhe",
     "pos":"adj",
-    "grammar":"nt loc sg of sārambha",
+    "grammar":"nt loc sg of sārambha, comp",
     "case":0,
     "meaning":"in harmful, injurious",
     "meaning_lit":"in with harm",
     "root":"√rabh (be violent)",
-    "base":0,
-    "construction":"sa + ā + √rabh > rambh + a",
-    "compound_type":"kammadhāraya",
-    "compound_construction":"sa + ārambha"
+    "base":"√rabh + a > rabha > rambha (irreg)",
+    "construction":"saṃ > sā + rambha + a",
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 7",
@@ -379,7 +379,7 @@
     "meaning_lit":0,
     "root":"√vas (live)",
     "base":0,
-    "construction":"√vas + tha + u",
+    "construction":"√vas + tu",
     "compound_type":0,
     "compound_construction":0
   },
@@ -391,7 +391,7 @@
     "pos":"adj",
     "grammar":"nt loc sg of aparikkamana, neg",
     "case":0,
-    "meaning":"(on) not accessible, not approachable",
+    "meaning":"on not accessible, not approachable",
     "meaning_lit":"in not with walking around",
     "root":"√kam (go)",
     "base":0,
@@ -409,9 +409,9 @@
     "case":0,
     "meaning":"large, big",
     "meaning_lit":0,
-    "root":0,
+    "root":"√mah (increase)",
     "base":0,
-    "construction":"mahā + la + ka",
+    "construction":"√mah + ā + la + ka",
     "compound_type":0,
     "compound_construction":0
   },

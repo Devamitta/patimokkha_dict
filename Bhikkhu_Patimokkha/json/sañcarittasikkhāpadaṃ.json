@@ -117,7 +117,7 @@
     "sentence":"yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ",
     "pali_1":"purisamatiṃ",
     "pos":"noun",
-    "grammar":"fem acc sg of purisamati",
+    "grammar":"fem acc sg of purisamati, comp",
     "case":"",
     "meaning":"man’s intention, man’s proposal",
     "meaning_lit":"man’s idea",
@@ -197,7 +197,7 @@
     "sentence":"yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ",
     "pali_1":"itthimatiṃ",
     "pos":"noun",
-    "grammar":"fem acc sg of itthimati",
+    "grammar":"fem acc sg of itthimati, comp",
     "case":"",
     "meaning":"woman’s intention, woman’s proposal",
     "meaning_lit":"woman’s idea",
@@ -258,7 +258,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"jāyattane",
     "pos":"noun",
     "grammar":"nt loc sg of jāyattana",
@@ -290,7 +290,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"jārattane",
     "pos":"noun",
     "grammar":"nt loc sg of jārattana",
@@ -306,7 +306,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
@@ -322,7 +322,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"antamaso",
     "pos":"ind",
     "grammar":"adv, abl sg of antama",
@@ -338,7 +338,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"taṅkhaṇikāyapi",
     "pos":"comp",
     "grammar":"sandhi, pron + fam + ind",
@@ -354,7 +354,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"- taṃ",
     "pos":"pron",
     "grammar":"fem acc sg of ta",
@@ -370,7 +370,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"- khaṇa",
     "pos":"noun",
     "grammar":"masc",
@@ -386,7 +386,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"- ikā",
     "pos":"suffix",
     "grammar":"",
@@ -402,7 +402,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
@@ -418,7 +418,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
@@ -434,7 +434,7 @@
   {
     "abbrev":"SA 5",
     "source":"sañcarittasikkhāpadaṃ",
-    "sentence":"jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.",
+    "sentence":"jāyattane vā jārattane vā, antamaso taṅ'khaṇikāya'pi, saṅghādiseso.",
     "pali_1":"for being a wife or forbeing a mistress, even for being one on [just] that occasion: [this isa case concerning] the community in the beginning and in the rest[of the procedure].",
     "pos":"",
     "grammar":"",

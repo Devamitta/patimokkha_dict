@@ -37,7 +37,7 @@
     "sentence":"nisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ",
     "pali_1":"bhikkhunā",
     "pos":"noun",
-    "grammar":"masc instr sg of bhikkhu, from bhikkhati",
+    "grammar":"masc instr sg of bhikkhu, from bhikkhati, comp",
     "case":0,
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
@@ -184,12 +184,12 @@
     "grammar":"fem instr sg, comp",
     "case":0,
     "meaning":"according to the standard span",
-    "meaning_lit":0,
+    "meaning_lit":"by well-gone span",
     "root":0,
     "base":0,
     "construction":"sugata + vidatthi",
-    "compound_type":"sugatassa + vidatthi",
-    "compound_construction":0
+    "compound_type":"kammadhāraya",
+    "compound_construction":"sugata + vidatthi"
   },
   {
     "abbrev":"PC 89",
