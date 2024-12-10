@@ -330,7 +330,7 @@
     "meaning":"they are seen",
     "meaning_lit":"",
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":"",
     "compound_construction":""
@@ -394,7 +394,7 @@
     "meaning":"they are heard",
     "meaning_lit":"",
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":"",
     "compound_construction":""
@@ -490,7 +490,7 @@
     "meaning":"they are seen",
     "meaning_lit":0,
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":0,
     "compound_construction":0
@@ -522,7 +522,7 @@
     "meaning":"they are heard",
     "meaning_lit":0,
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":0,
     "compound_construction":0
@@ -794,7 +794,7 @@
     "meaning":"they are seen",
     "meaning_lit":0,
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":0,
     "compound_construction":0
@@ -826,7 +826,7 @@
     "meaning":"they are heard",
     "meaning_lit":0,
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":0,
     "compound_construction":0
@@ -938,7 +938,7 @@
     "meaning":"they are seen",
     "meaning_lit":0,
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":0,
     "compound_construction":0
@@ -970,7 +970,7 @@
     "meaning":"they are heard",
     "meaning_lit":0,
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":0,
     "compound_construction":0
@@ -1274,7 +1274,7 @@
     "meaning":"being told, spoken to",
     "meaning_lit":0,
     "root":"√vac (speak)",
-    "base":"√vac + ya > vucca",
+    "base":"√vac + ya > vucca (pass)",
     "construction":"vucca + māna",
     "compound_type":0,
     "compound_construction":0
@@ -2426,7 +2426,7 @@
     "meaning":"they are seen",
     "meaning_lit":0,
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":0,
     "compound_construction":0
@@ -2458,7 +2458,7 @@
     "meaning":"they are heard",
     "meaning_lit":0,
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":0,
     "compound_construction":0
@@ -2538,7 +2538,7 @@
     "meaning":"they are seen",
     "meaning_lit":0,
     "root":"√dis (see)",
-    "base":"√dis + ya > dissa",
+    "base":"√dis + ya > dissa (pass)",
     "construction":"dissa + ti",
     "compound_type":0,
     "compound_construction":0
@@ -2570,7 +2570,7 @@
     "meaning":"they are heard",
     "meaning_lit":0,
     "root":"√su (hear)",
-    "base":"√su + ya > suyya",
+    "base":"√su + ya > suyya (pass)",
     "construction":"suyya + ti",
     "compound_type":0,
     "compound_construction":0
@@ -2794,7 +2794,7 @@
     "meaning":"being told, spoken to",
     "meaning_lit":0,
     "root":"√vac (speak)",
-    "base":"√vac + ya > vucca",
+    "base":"√vac + ya > vucca (pass)",
     "construction":"vucca + māna",
     "compound_type":0,
     "compound_construction":0
@@ -2827,7 +2827,7 @@
     "meaning_lit":"hold forward",
     "root":"√gah (grasp)",
     "base":0,
-    "construction":"pa + √gah + ya",
+    "construction":"pa + gaṇhā + ti",
     "compound_type":0,
     "compound_construction":0
   },
@@ -2971,7 +2971,7 @@
     "meaning_lit":0,
     "root":0,
     "base":0,
-    "construction":"yāva + tatiyaṃ + ce",
+    "construction":"yāvatatiyaṃ + ce",
     "compound_type":0,
     "compound_construction":0
   },
@@ -2986,7 +2986,7 @@
     "meaning":"being admonished (by), being sternly advised (by)",
     "meaning_lit":0,
     "root":"√bhās (shine, speak)",
-    "base":"√bhās + iya > bhāsiya",
+    "base":"√bhās + iya > bhāsiya (pass)",
     "construction":"saṃ + anu + bhāsiya + māna",
     "compound_type":0,
     "compound_construction":0
@@ -3031,8 +3031,8 @@
     "pos":"comp",
     "grammar":"sandhi, ind + pron",
     "case":0,
-    "meaning":"like this",
-    "meaning_lit":0,
+    "meaning":"that is",
+    "meaning_lit":"thus this",
     "root":0,
     "base":0,
     "construction":"iti + etaṃ",
@@ -3047,7 +3047,7 @@
     "pos":"noun",
     "grammar":"nt nom sg of kusala",
     "case":0,
-    "meaning":"good, proper",
+    "meaning":"something proper, good deed; doing good",
     "meaning_lit":0,
     "root":0,
     "base":0,

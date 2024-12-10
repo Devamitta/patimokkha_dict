@@ -135,13 +135,13 @@
     "pos":"ind",
     "grammar":"adv, acc sg of theyyasaṅkhāta",
     "case":"",
-    "meaning":"with intent to steal, dishonestly",
-    "meaning_lit":"what is called theft",
+    "meaning":"with intent to steal, dishonestly, in a way that is reckoned as theft",
+    "meaning_lit":"so called theft",
     "root":"",
     "base":"",
     "construction":"theyya + saṅkhātaṃ",
-    "compound_type":"",
-    "compound_construction":""
+    "compound_type":"instrumental tappurisa",
+    "compound_construction":"theyyena + saṅkhāta"
   },
   {
     "abbrev":"PA 2",
@@ -186,7 +186,7 @@
     "meaning":"he should steal",
     "meaning_lit":"take",
     "root":"√ādā (take, steal)",
-    "base":"√āda + i + ya > ādiya",
+    "base":"√āda + ya > ādāya > ādiya",
     "construction":"ādiya + ti",
     "compound_type":"",
     "compound_construction":""
@@ -195,7 +195,7 @@
     "abbrev":"PA 2",
     "source":"adinnādānasikkhāpadaṃ",
     "sentence":"yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya",
-    "pali_1":"If any bhikkhu should take [what has] not been given from a villageor wilderness-area, which is reckoned as theft, [and] the taking ofwhat has not been given",
+    "pali_1":"If any bhikkhu from a village or wilderness area, should take what has not been given, in a way that is reckoned as theft",
     "pos":"",
     "grammar":"",
     "case":"",
@@ -220,7 +220,7 @@
     "root":"",
     "base":"",
     "construction":"yathā + rūpa",
-    "compound_type":"abyāyibhāva",
+    "compound_type":"kammadhāraya",
     "compound_construction":"yathā + rūpa"
   },
   {
@@ -309,13 +309,13 @@
     "sentence":"yathārūpe adinn'ādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā",
     "pali_1":"rājāno",
     "pos":"noun",
-    "grammar":"masc nom pl of rājā",
+    "grammar":"masc nom pl of rāja",
     "case":"",
     "meaning":"officers, authorities, officials",
     "meaning_lit":"kings; king's men",
     "root":"√rāj (rule)",
     "base":"",
-    "construction":"√rāj + ā",
+    "construction":"√rāj + a + ānorāja + āno",
     "compound_type":"",
     "compound_construction":""
   },
@@ -700,8 +700,8 @@
     "root":"",
     "base":"",
     "construction":"tathā + rūpa",
-    "compound_type":"",
-    "compound_construction":""
+    "compound_type":"kammadhāraya",
+    "compound_construction":"tathā + rūpa"
   },
   {
     "abbrev":"PA 2",
@@ -778,7 +778,7 @@
     "meaning":"taking, stealing",
     "meaning_lit":"",
     "root":"√ādā (take, steal)",
-    "base":"√āda + i + ya > ādiya",
+    "base":"√āda + ya > ādāya > ādiya",
     "construction":"ādiya + māna",
     "compound_type":"",
     "compound_construction":""

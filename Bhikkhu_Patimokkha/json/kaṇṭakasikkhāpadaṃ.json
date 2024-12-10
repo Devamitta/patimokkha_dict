@@ -1034,7 +1034,7 @@
     "meaning":"being told, spoken to",
     "meaning_lit":0,
     "root":"√vac (speak)",
-    "base":"√vac + ya > vucca",
+    "base":"√vac + ya > vucca (pass)",
     "construction":"vucca + māna",
     "compound_type":0,
     "compound_construction":0
@@ -1067,7 +1067,7 @@
     "meaning_lit":"hold forward",
     "root":"√gah (grasp)",
     "base":0,
-    "construction":"pa + √gah + ya",
+    "construction":"pa + gaṇhā + ti",
     "compound_type":0,
     "compound_construction":0
   },
