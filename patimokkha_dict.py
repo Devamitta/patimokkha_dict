@@ -126,4 +126,20 @@ for source_file in sources_json:
 
 print(f"{timeis()} {green}process completed")
 
+# Create a DataFrame for TSV export
+tsv_data = []
+
+for sj in sources_json:
+    web_link = f"https://devamitta.github.io/patimokkha_dict/Bhikkhu_Patimokkha/{sj['source']}/{sj['source']}.html"
+    tsv_data.append({"source": sj["source"], "web_link": web_link})
+
+# Convert the list to a DataFrame
+tsv_df = pd.DataFrame(tsv_data)
+
+# Export the DataFrame to a TSV file
+tsv_df.to_csv("sources_links.tsv", sep='\t', index=False)
+
+print(f"{timeis()} {green}tsv source saved successfully")
+
+
 toc()

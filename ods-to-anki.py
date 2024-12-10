@@ -43,6 +43,12 @@ class ReadOds:
 
     def process_and_save_csv(self):
         print(f"{timeis()} {green}processing for anki")
+
+        # Load the sources_links.tsv file
+        sources_links_df = pd.read_csv('sources_links.tsv', sep='\t')
+
+        # Create a dictionary for quick lookup
+        source_to_link = dict(zip(sources_links_df['source'], sources_links_df['web_link']))
             
         test1 = self.df['analysis']['#'] == "1"
         test2 = self.df['analysis']['meaning'] != ""
@@ -55,6 +61,20 @@ class ReadOds:
         self.df['analysis']['order'] = range(1, len(self.df['analysis']) + 1)
     
         self.df['analysis']['feedback'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali_1 + """&entry.1433863141=Anki">Fix it here</a>."""
+
+        self.df['analysis']['web_link'] = self.df['analysis']['source'].map(source_to_link)
+
+        # Add a new column called "web_link_html" to the DataFrame
+        self.df['analysis']['web_link_html'] = self.df['analysis']['web_link'].apply(
+            lambda x: f'<a class="link" href="{x}">Web analysis</a>'
+        )
+
+        # Replace the "web_link" column with the "web_link_html" column in the DataFrame
+        self.df['analysis']['web_link'] = self.df['analysis']['web_link_html']
+
+        # Drop the "web_link_html" column from the DataFrame
+        self.df['analysis'].drop('web_link_html', axis=1, inplace=True)
+
 
         rows = self.df['analysis'].shape[0]
         columns = self.df['analysis'].shape[1]
