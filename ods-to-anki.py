@@ -66,7 +66,7 @@ class ReadOds:
 
         # Add a new column called "web_link_html" to the DataFrame
         self.df['analysis']['web_link_html'] = self.df['analysis']['web_link'].apply(
-            lambda x: f'<a class="link" href="{x}">Web analysis</a>'
+            lambda x: f'Check out the web analysis of rule <a class="link" href="{x}">here</a>.'
         )
 
         # Replace the "web_link" column with the "web_link_html" column in the DataFrame
