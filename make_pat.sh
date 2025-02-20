@@ -22,7 +22,7 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "making Patimokkha csv with bold for Anki- ods-to-anki.py"
 
 
-poetry run python ods-to-anki.py
+uv run python ods-to-anki.py
 
 echo "process completed"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
@@ -32,7 +32,7 @@ mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/hom
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo -e "\033[34manki_patimokkha.csv moved to csv-for-anki\033[0m"
 
-poetry run python patimokkha_dict.py
+uv run python patimokkha_dict.py
 echo "HTML updated please push on github"
 
 cd "/home/deva/Documents/dps/patimokkha_dict"
