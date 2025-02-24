@@ -119,6 +119,8 @@ for source_file in sources_json:
             file.write(definition_table)
             file.write("<br><br>\n")
 
+    file.write("<a class=\"active\" href=\"../main.html\">Home</a>\n")
+
     file.write("<script src=\"../scripts/main.js\"></script>\n") 
     file.write("</body>\n")
     file.write("</html>\n") 
