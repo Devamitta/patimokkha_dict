@@ -164,8 +164,8 @@
     "source":"paṭhamaaniyatasikkhāpadaṃ",
     "sentence":"yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya",
     "pali_1":"alaṃkammaniye",
-    "pos":"comp",
-    "grammar":"nt loc sg of alaṃkammaniya",
+    "pos":"adj",
+    "grammar":"nt loc sg of alaṃkammaniya, comp",
     "case":"",
     "meaning":"(on) suitable for sexual intercourse",
     "meaning_lit":"in suitable for the job",
@@ -492,8 +492,8 @@
     "root":"",
     "base":"",
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":"",
-    "compound_construction":"sattamī tappurisa"
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"AN 1",
@@ -716,8 +716,8 @@
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":0,
-    "compound_construction":"sattamī tappurisa"
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"AN 1",

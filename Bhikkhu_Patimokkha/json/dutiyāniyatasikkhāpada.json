@@ -148,8 +148,8 @@
     "source":"dutiyāniyatasikkhāpada",
     "sentence":"na h'eva kho pana paṭicchannaṃ āsanaṃ hoti n'ālaṃkammaniyaṃ, alañ'ca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ",
     "pali_1":"nālaṃkammaniyaṃ",
-    "pos":"comp",
-    "grammar":"nt nom sg of na alaṃkammaniya",
+    "pos":"adj",
+    "grammar":"nt nom sg of na alaṃkammaniya, comp",
     "case":"",
     "meaning":"not suitable for sexual intercourse",
     "meaning_lit":"not suitable for the job",
@@ -213,7 +213,7 @@
     "sentence":"na h'eva kho pana paṭicchannaṃ āsanaṃ hoti n'ālaṃkammaniyaṃ, alañ'ca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ",
     "pali_1":"alañca",
     "pos":"comp",
-    "grammar":"comp",
+    "grammar":"sadnhi, ind + ind",
     "case":"",
     "meaning":"but (it is) enough",
     "meaning_lit":"",
@@ -748,8 +748,8 @@
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":0,
-    "compound_construction":"sattamī tappurisa"
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"AN 2",
@@ -940,8 +940,8 @@
     "root":0,
     "base":0,
     "construction":"saṅgha + ādi + sesa",
-    "compound_type":0,
-    "compound_construction":"sattamī tappurisa"
+    "compound_type":"sattamī tappurisa",
+    "compound_construction":"saṅgha + ādisese"
   },
   {
     "abbrev":"AN 2",

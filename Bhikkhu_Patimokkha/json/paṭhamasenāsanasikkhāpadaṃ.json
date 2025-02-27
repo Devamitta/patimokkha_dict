@@ -309,7 +309,7 @@
     "sentence":"yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto n'eva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.",
     "pali_1":"neva",
     "pos":"comp",
-    "grammar":"ind + ind",
+    "grammar":"sandhi, ind + ind",
     "case":"",
     "meaning":"neither",
     "meaning_lit":"",
