@@ -156,8 +156,8 @@
     "root":"",
     "base":"",
     "construction":"kula + dūsaka",
-    "compound_type":"genitive tappurisa",
-    "compound_construction":"kulānaṃ + dūsaka"
+    "compound_type":"accusative tappurisa",
+    "compound_construction":"kulāni + dūsaka"
   },
   {
     "abbrev":"SA 13",
@@ -700,8 +700,8 @@
     "root":0,
     "base":0,
     "construction":"kula + dūsaka",
-    "compound_type":"genitive tappurisa",
-    "compound_construction":"kulānaṃ + dūsaka"
+    "compound_type":"accusative tappurisa",
+    "compound_construction":"kulāni + dūsaka"
   },
   {
     "abbrev":"SA 13",
@@ -1031,7 +1031,7 @@
     "pos":"verb",
     "grammar":"imp 3rd sg of pakkamati",
     "case":"",
-    "meaning":"he must go away!",
+    "meaning":"he must go away! may he leave",
     "meaning_lit":"step forward",
     "root":"√kam (go)",
     "base":"√kam + a > kama",
@@ -1110,14 +1110,14 @@
     "pali_1":"te 3",
     "pos":"pron",
     "grammar":"2nd dat sg of tvaṃ",
-    "case":"",
-    "meaning":"of you",
-    "meaning_lit":"for you",
-    "root":"",
-    "base":"",
-    "construction":"",
-    "compound_type":"",
-    "compound_construction":""
+    "case":0,
+    "meaning":"for you",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 13",
@@ -1701,13 +1701,13 @@
     "sentence":"tādisikāya āpattiyā ekaccaṃ pabbājenti, ekaccaṃ na pabbājentī'ti",
     "pali_1":"tādisikāya",
     "pos":"adj",
-    "grammar":"fem instr sg of tādisaka",
+    "grammar":"fem instr sg of tādisaka, comp",
     "case":"",
     "meaning":"with such kind, with such sort",
     "meaning_lit":"",
     "root":"",
     "base":"",
-    "construction":"ta + disa + *a + ikā",
+    "construction":"taṃ > tā + disa + ikā",
     "compound_type":"",
     "compound_construction":""
   },
@@ -1750,7 +1750,7 @@
     "pali_1":"pabbājenti",
     "pos":"verb",
     "grammar":"pr 3rd pl of pabbājeti",
-    "case":"",
+    "case":"+acc",
     "meaning":"they banish, exile",
     "meaning_lit":"cause to go away",
     "root":"√vaj (procede)",
@@ -2332,8 +2332,8 @@
     "root":0,
     "base":0,
     "construction":"kula + dūsaka",
-    "compound_type":"genitive tappurisa",
-    "compound_construction":"kulānaṃ + dūsaka"
+    "compound_type":"accusative tappurisa",
+    "compound_construction":"kulāni + dūsaka"
   },
   {
     "abbrev":"SA 13",
