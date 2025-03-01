@@ -38,7 +38,7 @@ if [ -d "/home/deva/filesrv1/share1/Sharing between users" ]; then
     echo "Moving folders to the fileserver"
 
     # Copy folders on the server
-    cp -rf "Pātimokkha Word by Word.xlsx" "/home/deva/filesrv1/share1/Sharing between users/16 For Patimokkha class/offline/Pātimokkha Word by Word.xlsx"
+    cp -rf Pātimokkha\ Word\ by\ Word.xlsx /home/deva/filesrv1/share1/Sharing\ between\ users/16\ For\ Pātimokkha\ Class/offline/Pātimokkha\ Word\ by\ Word.xlsx
 
     echo "Pātimokkha copied to the fileserver"
 
