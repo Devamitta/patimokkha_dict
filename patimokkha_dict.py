@@ -38,8 +38,9 @@ for sj in sources_json:
     os.makedirs(MAIN_DIR + "/" + sj["source"], exist_ok=True)
     result_df = df[df["source"] == sj["source"]]
     filtered_result_df = result_df[["abbrev", "source", "sentence", "pali_1", "pos", 
-        "grammar", "case", "meaning", "meaning_lit", "root", "base", "construction", 
-        "compound_type", "compound_construction"]].fillna("").infer_objects(copy=False)
+    "grammar", "case", "meaning", "meaning_lit", "root", "base", "construction", 
+    "compound_type", "compound_construction"]]
+    filtered_result_df = filtered_result_df.fillna("").infer_objects(copy=False)
     filtered_result_df.to_json(DB_DIR + "/" + sj["source"] + 
         ".json", force_ascii=False, orient='records', indent=2)
 
@@ -112,9 +113,10 @@ for source_file in sources_json:
         if ln["sentence"] != "":
             file.write("<b style=\"font-size:20px\" id=\"" + 
             ln["sentence"].replace(" ", "_") + "\">" + ln["sentence"] + "</b><br>\n")
-            define_df = (line_df[line_df["sentence"] == ln["sentence"]])[["pali_1", 
+            define_df = line_df[line_df["sentence"] == ln["sentence"]][["pali_1", 
                 "pos", "grammar", "case", "meaning", "meaning_lit", "root", "base", 
-                "construction", "compound_type", "compound_construction"]].fillna("").infer_objects(copy=False)
+                "construction", "compound_type", "compound_construction"]]
+            define_df = define_df.fillna("").infer_objects(copy=False)
             definition_table = define_df.to_html(justify='left', 
                 index=False).replace("0", "")
             definition_table = definition_table.replace("pali_1", "pāḷi")
