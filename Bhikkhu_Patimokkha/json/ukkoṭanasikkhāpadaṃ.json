@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 63",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 63",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 63",
@@ -54,14 +54,14 @@
     "pali_1":"jānaṃ",
     "pos":"ind",
     "grammar":"adv, from jānanta",
-    "case":"0",
+    "case":0,
     "meaning":"knowingly, consciously, wittingly",
     "meaning_lit":"knowing",
     "root":"√ñā (know)",
     "base":"√ñā + nā > jānā",
     "construction":"jānā + aṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 63",
@@ -86,14 +86,14 @@
     "pali_1":"- yathā",
     "pos":"ind",
     "grammar":"adv",
-    "case":"0",
+    "case":0,
     "meaning":"like, as",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"ya + thā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 63",
@@ -232,11 +232,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

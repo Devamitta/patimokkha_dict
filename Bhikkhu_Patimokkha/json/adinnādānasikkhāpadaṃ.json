@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -102,14 +102,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -390,14 +390,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -422,14 +422,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -454,14 +454,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -568,12 +568,12 @@
     "grammar":"pr 2nd sg of atthi",
     "case":"+nom",
     "meaning":"you are",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√as (be)",
-    "base":"0",
+    "base":0,
     "construction":"√as + si",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -616,12 +616,12 @@
     "grammar":"pr 2nd sg of atthi",
     "case":"+nom",
     "meaning":"you are",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√as (be)",
-    "base":"0",
+    "base":0,
     "construction":"√as + si",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -664,12 +664,12 @@
     "grammar":"pr 2nd sg of atthi",
     "case":"+nom",
     "meaning":"you are",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√as (be)",
-    "base":"0",
+    "base":0,
     "construction":"√as + si",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -677,15 +677,15 @@
     "sentence":"coro'si bālo'si mūḷho'si theno'sī'ti",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -758,14 +758,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -774,14 +774,14 @@
     "pali_1":"adinnaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of adinna, pp of na + dadāti, neg",
-    "case":"0",
+    "case":0,
     "meaning":"something not given",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√dā (give)",
-    "base":"0",
+    "base":0,
     "construction":"na + √dā + na",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -838,14 +838,14 @@
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"then, and, now, even, also",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"(a)pi",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -854,14 +854,14 @@
     "pali_1":"pārājiko",
     "pos":"adj",
     "grammar":"masc nom sg of pārājika",
-    "case":"0",
+    "case":0,
     "meaning":"defeated, destroyed, disqualified",
     "meaning_lit":"conquered",
     "root":"√ji (conquer)",
-    "base":"0",
+    "base":0,
     "construction":"parā > pārā + √ji + *ika",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -876,8 +876,8 @@
     "root":"√hū (be)",
     "base":"√hū + a > ho",
     "construction":"ho + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",
@@ -886,14 +886,14 @@
     "pali_1":"asaṃvāso",
     "pos":"adj",
     "grammar":"masc nom sg of asaṃvāsa, from saṃvasati",
-    "case":"0",
+    "case":0,
     "meaning":"unaffiliated, excommunicated",
     "meaning_lit":"not living together",
     "root":"√vas (live)",
-    "base":"0",
+    "base":0,
     "construction":"na + saṃ + √vas + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 2",

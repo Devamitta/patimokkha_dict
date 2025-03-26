@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -102,14 +102,14 @@
     "pali_1":"anupakhajja",
     "pos":"ger",
     "grammar":"ger of anupakkhandati",
-    "case":"0",
+    "case":0,
     "meaning":"encroaching, invading",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√khand (jump)",
-    "base":"0",
+    "base":0,
     "construction":"anu + pa + √khand + ya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -118,14 +118,14 @@
     "pali_1":"nisajjaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of nisajjā",
-    "case":"0",
+    "case":0,
     "meaning":"seat (or) sitting down",
     "meaning_lit":"seating",
     "root":"√sad (sink, sit, settle)",
-    "base":"0",
+    "base":0,
     "construction":"ni + √sad + ya + ā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -140,8 +140,8 @@
     "root":"√kapp (be fit, be suitable)",
     "base":"√kapp + *e > kappe (caus)",
     "construction":"kappe + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 43",
@@ -152,11 +152,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

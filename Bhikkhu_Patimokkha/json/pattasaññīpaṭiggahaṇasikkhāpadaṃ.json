@@ -22,14 +22,14 @@
     "pali_1":"- patta 2",
     "pos":"noun",
     "grammar":"masc",
-    "case":"0",
+    "case":0,
     "meaning":"bowl",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√pā (drink)",
-    "base":"0",
+    "base":0,
     "construction":"√pā + ta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 28",
@@ -54,11 +54,11 @@
     "pali_1":"piṇḍapātaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of piṇḍapāta, comp",
-    "case":"0",
+    "case":0,
     "meaning":"alms food",
     "meaning_lit":"lump dropping",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"piṇḍa + pāta",
     "compound_type":"accusative tappurisa",
     "compound_construction":"piṇḍaṃ + pāta"
@@ -70,14 +70,14 @@
     "pali_1":"paṭiggahessāmīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
-    "case":"0",
-    "meaning":"0",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "case":0,
+    "meaning":0,
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"paṭiggahessāmi + iti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 28",
@@ -86,14 +86,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
-    "case":"0",
+    "case":0,
     "meaning":"training, precept, training precept",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√sikkh (train)",
-    "base":"0",
+    "base":0,
     "construction":"√sikkh + ā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 28",
@@ -102,13 +102,13 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti, comp",
-    "case":"0",
+    "case":0,
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":"0",
+    "base":0,
     "construction":"√kar + aṇīya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

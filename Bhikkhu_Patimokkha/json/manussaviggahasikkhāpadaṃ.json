@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ v'āssa pariyeseyya",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -230,14 +230,14 @@
     "pali_1":"- assa",
     "pos":"pron",
     "grammar":"masc dat sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"for him, to him",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -326,14 +326,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -374,14 +374,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -454,14 +454,14 @@
     "pali_1":"kiṃ",
     "pos":"pron",
     "grammar":"nt nom sg of ka",
-    "case":"0",
+    "case":0,
     "meaning":"what?",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -629,15 +629,15 @@
     "sentence":"ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -742,14 +742,14 @@
     "pali_1":"- citta",
     "pos":"noun",
     "grammar":"nt",
-    "case":"0",
+    "case":0,
     "meaning":"mind, thought, heart",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√cit (think)",
-    "base":"0",
+    "base":0,
     "construction":"√cit + ta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -822,11 +822,11 @@
     "pali_1":"maraṇavaṇṇaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of maraṇavaṇṇa, comp",
-    "case":"0",
+    "case":0,
     "meaning":"value of death, advantage in death",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"maraṇa + vaṇṇa",
     "compound_type":"genitive tappurisa",
     "compound_construction":"maraṇassa + vaṇṇa"
@@ -838,14 +838,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -856,12 +856,12 @@
     "grammar":"opt 3rd sg of saṃvaṇṇeti",
     "case":"+acc",
     "meaning":"he would praise, speak highly of",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√vaṇṇ (praise)",
     "base":"√vaṇṇ + e > vaṇṇe",
     "construction":"saṃ + vaṇṇe + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -870,14 +870,14 @@
     "pali_1":"maraṇāya",
     "pos":"noun",
     "grammar":"nt dat sg of maraṇa",
-    "case":"0",
+    "case":0,
     "meaning":"for death",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√mar (die)",
-    "base":"0",
+    "base":0,
     "construction":"√mar + aṇa",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -886,14 +886,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -908,8 +908,8 @@
     "root":"√ādā (take, steal)",
     "base":"√ādā + āpe > ādape (irreg)",
     "construction":"saṃ + ādape + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -934,14 +934,14 @@
     "pali_1":"ayampi",
     "pos":"comp",
     "grammar":"sandhi, pron + ind",
-    "case":"0",
+    "case":0,
     "meaning":"he too",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"ayaṃ + api",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -950,14 +950,14 @@
     "pali_1":"pārājiko",
     "pos":"adj",
     "grammar":"masc nom sg of pārājika",
-    "case":"0",
+    "case":0,
     "meaning":"defeated, destroyed, disqualified",
     "meaning_lit":"conquered",
     "root":"√ji (conquer)",
-    "base":"0",
+    "base":0,
     "construction":"parā > pārā + √ji + *ika",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -972,8 +972,8 @@
     "root":"√hū (be)",
     "base":"√hū + a > ho",
     "construction":"ho + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",
@@ -982,14 +982,14 @@
     "pali_1":"asaṃvāso",
     "pos":"adj",
     "grammar":"masc nom sg of asaṃvāsa, from saṃvasati",
-    "case":"0",
+    "case":0,
     "meaning":"unaffiliated, excommunicated",
     "meaning_lit":"not living together",
     "root":"√vas (live)",
-    "base":"0",
+    "base":0,
     "construction":"na + saṃ + √vas + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PA 3",

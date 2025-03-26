@@ -54,14 +54,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 1",
@@ -118,14 +118,14 @@
     "pali_1":"- dasa",
     "pos":"card",
     "grammar":"x pl",
-    "case":"0",
+    "case":0,
     "meaning":"ten",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 1",
@@ -230,14 +230,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"that",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 1",

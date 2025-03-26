@@ -6,14 +6,14 @@
     "pali_1":"dasāhaparamaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of dasāhaparama",
-    "case":"0",
+    "case":0,
     "meaning":"for ten days at the most, for a maximum of ten days",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"dasa + aha + paramaṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",
@@ -37,15 +37,15 @@
     "sentence":"das'āhaparamaṃ atirekapatto dhāretabbo, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
     "pali_1":"- atireka",
     "pos":"adj",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"extra, surplus",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√ric (be empty)",
-    "base":"0",
+    "base":0,
     "construction":"ati + √ric > rek + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",
@@ -86,14 +86,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"that",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",
@@ -102,14 +102,14 @@
     "pali_1":"atikkāmayato",
     "pos":"prp",
     "grammar":"masc dat sg of atikkāmanta",
-    "case":"0",
+    "case":0,
     "meaning":"for (a monk) going beyond, exceeding",
     "meaning_lit":"causing to go too far",
     "root":"√kam (go)",
     "base":"√kam + *aya > kāmaya (caus)",
     "construction":"ati + kāmaya + nta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",
@@ -118,14 +118,14 @@
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
-    "case":"0",
+    "case":0,
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":"0",
+    "base":0,
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",
@@ -136,12 +136,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 21",

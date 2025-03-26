@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -54,14 +54,14 @@
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -70,14 +70,14 @@
     "pali_1":"duṭṭho",
     "pos":"adj",
     "grammar":"masc nom sg of duṭṭha",
-    "case":"0",
+    "case":0,
     "meaning":"angry, upset",
     "meaning_lit":"corrupted",
     "root":"√dus (be angry, corrupt)",
-    "base":"0",
+    "base":0,
     "construction":"√dus + ta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -86,14 +86,14 @@
     "pali_1":"doso",
     "pos":"adj",
     "grammar":"masc nom sg of dosa, from dussati",
-    "case":"0",
+    "case":0,
     "meaning":"with ill-will",
     "meaning_lit":"hatred",
     "root":"√dus (hate, dislike)",
-    "base":"0",
+    "base":0,
     "construction":"√dus + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -102,14 +102,14 @@
     "pali_1":"appatīto",
     "pos":"pp",
     "grammar":"masc nom sg, pp of pacceti",
-    "case":"0",
+    "case":0,
     "meaning":"displeased, unhappy",
     "meaning_lit":"not come back to",
     "root":"√i (come, go)",
-    "base":"0",
+    "base":0,
     "construction":"na + pati + √i + ta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -278,14 +278,14 @@
     "pali_1":"pārājikena",
     "pos":"adj",
     "grammar":"masc instr sg of pārājika",
-    "case":"0",
+    "case":0,
     "meaning":"with (a matter) related to defeat",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√ji (conquer)",
-    "base":"0",
+    "base":0,
     "construction":"parā > pārā + √ji + *ika",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -294,14 +294,14 @@
     "pali_1":"dhammena 2",
     "pos":"noun",
     "grammar":"masc instr sg of dhamma",
-    "case":"0",
+    "case":0,
     "meaning":"with matter; case",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√dhar (hold)",
-    "base":"0",
+    "base":0,
     "construction":"√dhar + ma",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -316,8 +316,8 @@
     "root":"√dhaṃs (fall down, destroy)",
     "base":"√dhaṃs + *e > dhaṃse (caus)",
     "construction":"anu + dhaṃse + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -342,14 +342,14 @@
     "pali_1":"appeva",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
-    "case":"0",
+    "case":0,
     "meaning":"if only, please may, hopefully",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"api > apy > app + eva",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -358,14 +358,14 @@
     "pali_1":"nāma",
     "pos":"ind",
     "grammar":"emph",
-    "case":"0",
+    "case":0,
     "meaning":"certainly, indeed",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -374,14 +374,14 @@
     "pali_1":"naṃ",
     "pos":"pron",
     "grammar":"masc acc sg",
-    "case":"0",
+    "case":0,
     "meaning":"him",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -390,14 +390,14 @@
     "pali_1":"imamhā",
     "pos":"pron",
     "grammar":"nt abl sg of ima",
-    "case":"0",
+    "case":0,
     "meaning":"from this",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"ima + mhā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -406,11 +406,11 @@
     "pali_1":"brahmacariyā",
     "pos":"noun",
     "grammar":"nt abl sg of brahmacariya, comp",
-    "case":"0",
+    "case":0,
     "meaning":"from holy life, spiritual path",
     "meaning_lit":"divine walk",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"brahma + cariya",
     "compound_type":"kammadhāraya",
     "compound_construction":"brahma + cariya"
@@ -422,14 +422,14 @@
     "pali_1":"cāveyyanti",
     "pos":"comp",
     "grammar":"sandhi, opt + ind",
-    "case":"0",
-    "meaning":"0",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "case":0,
+    "meaning":0,
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"cāveyyaṃ + iti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -454,14 +454,14 @@
     "pali_1":"tato",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"after, then",
     "meaning_lit":"from that",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"ta + to",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -470,14 +470,14 @@
     "pali_1":"aparena",
     "pos":"adj",
     "grammar":"instr sg of apara",
-    "case":"0",
+    "case":0,
     "meaning":"at another, at a later",
     "meaning_lit":"with another",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"apa + ra",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -486,14 +486,14 @@
     "pali_1":"samayena",
     "pos":"noun",
     "grammar":"masc instr sg of samaya",
-    "case":"0",
+    "case":0,
     "meaning":"at time, at occasion",
     "meaning_lit":"with time, come together",
     "root":"√i (come, go)",
-    "base":"0",
+    "base":0,
     "construction":"saṃ + √i > ay + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -502,14 +502,14 @@
     "pali_1":"samanuggāhīyamāno",
     "pos":"prp",
     "grammar":"masc nom sg of samanuggāhiyamāna, from samanuggāhīyati",
-    "case":"0",
+    "case":0,
     "meaning":"being closely questioned",
     "meaning_lit":"being dived into",
     "root":"√gāh (dive, plunge)",
     "base":"√gāh + īya > gāhīya (pass)",
     "construction":"saṃ + anu + gāhīya + māna",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -518,14 +518,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -534,14 +534,14 @@
     "pali_1":"asamanuggāhīyamāno",
     "pos":"prp",
     "grammar":"masc nom sg of na + samanuggāhiyamāna, from samanuggāhīyati",
-    "case":"0",
+    "case":0,
     "meaning":"not being closely questioned",
     "meaning_lit":"not being dived into",
     "root":"√gāh (dive, plunge)",
     "base":"√gāh + īya > gāhīya (pass)",
     "construction":"na + saṃ + anu + gāhīya + māna",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -550,14 +550,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -630,14 +630,14 @@
     "pali_1":"- ce",
     "pos":"ind",
     "grammar":"cond",
-    "case":"0",
+    "case":0,
     "meaning":"if",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -646,14 +646,14 @@
     "pali_1":"- eva",
     "pos":"ind",
     "grammar":"emph",
-    "case":"0",
+    "case":0,
     "meaning":"just, only",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -662,14 +662,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"nt nom sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"that",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -678,14 +678,14 @@
     "pali_1":"adhikaraṇaṃ",
     "pos":"noun",
     "grammar":"nt nom of adhikaraṇa",
-    "case":"0",
+    "case":0,
     "meaning":"legal case, issue",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√kar (do, make)",
-    "base":"0",
+    "base":0,
     "construction":"adhi + √kar + aṇa",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -700,8 +700,8 @@
     "root":"√hū (be)",
     "base":"√hū + a > ho",
     "construction":"ho + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -790,14 +790,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -822,14 +822,14 @@
     "pali_1":"dosaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dosa",
-    "case":"0",
+    "case":0,
     "meaning":"fault, mistake, corruption",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√dus (be angry, corrupt)",
-    "base":"0",
+    "base":0,
     "construction":"√dus + *a",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -838,14 +838,14 @@
     "pali_1":"patiṭṭhāti",
     "pos":"verb",
     "grammar":"pr 3rd sg",
-    "case":"0",
+    "case":0,
     "meaning":"he admits, confesses, confirms",
     "meaning_lit":"stands back",
     "root":"√ṭhā (stand)",
-    "base":"0",
+    "base":0,
     "construction":"pati + √ṭhā + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SA 9",
@@ -854,11 +854,11 @@
     "pali_1":"saṅghādiseso",
     "pos":"noun",
     "grammar":"masc nom sg of saṅghādisesa, comp",
-    "case":"0",
+    "case":0,
     "meaning":"offence requiring suspension",
     "meaning_lit":"offence requiring involvement of the community from start to finish",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"saṅgha + ādi + sesa",
     "compound_type":"sattamī tappurisa",
     "compound_construction":"saṅgha + ādisese"

@@ -6,14 +6,14 @@
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
-    "case":"0",
+    "case":0,
     "meaning":"not",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -22,14 +22,14 @@
     "pali_1":"ṭhito",
     "pos":"pp",
     "grammar":"masc nom sg of ṭhita",
-    "case":"0",
+    "case":0,
     "meaning":"a (monk) standing",
     "meaning_lit":"stood",
     "root":"√ṭhā (stand)",
-    "base":"0",
+    "base":0,
     "construction":"√ṭhā + ita",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -38,14 +38,14 @@
     "pali_1":"agilāno",
     "pos":"adj",
     "grammar":"masc nom sg of agilāna",
-    "case":"0",
+    "case":0,
     "meaning":"healthy",
     "meaning_lit":"not sick",
     "root":"√gilā (be sick, tired)",
-    "base":"0",
+    "base":0,
     "construction":"na + √gilā + na",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -70,14 +70,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -102,14 +102,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -118,14 +118,14 @@
     "pali_1":"karissāmīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
-    "case":"0",
-    "meaning":"0",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "case":0,
+    "meaning":0,
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"karissāmi + iti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -134,14 +134,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
-    "case":"0",
+    "case":0,
     "meaning":"training, precept, training precept",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√sikkh (train)",
-    "base":"0",
+    "base":0,
     "construction":"√sikkh + ā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 73",
@@ -150,13 +150,13 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti, comp",
-    "case":"0",
+    "case":0,
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":"0",
+    "base":0,
     "construction":"√kar + aṇīya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

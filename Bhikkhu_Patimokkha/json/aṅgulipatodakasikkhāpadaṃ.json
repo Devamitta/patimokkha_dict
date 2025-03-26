@@ -56,11 +56,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

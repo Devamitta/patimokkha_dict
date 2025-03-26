@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akat'ānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā saṃvaseyya vā saha vā seyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -54,14 +54,14 @@
     "pali_1":"jānaṃ",
     "pos":"ind",
     "grammar":"adv, from jānanta",
-    "case":"0",
+    "case":0,
     "meaning":"knowingly, consciously, wittingly",
     "meaning_lit":"knowing",
     "root":"√ñā (know)",
     "base":"√ñā + nā > jānā",
     "construction":"jānā + aṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -86,14 +86,14 @@
     "pali_1":"- tathā",
     "pos":"ind",
     "grammar":"adv",
-    "case":"0",
+    "case":0,
     "meaning":"like that, such",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"ta + thā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -118,14 +118,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -182,14 +182,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"that",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -232,12 +232,12 @@
     "grammar":"prep",
     "case":"+instr",
     "meaning":"together with",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -262,14 +262,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -294,14 +294,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -326,14 +326,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":"0",
+    "case":0,
     "meaning":"or, either or",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -342,14 +342,14 @@
     "pali_1":"seyyaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of seyyā, comp",
-    "case":"0",
+    "case":0,
     "meaning":"bedding",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√sī (lie, sleep)",
-    "base":"0",
+    "base":0,
     "construction":"√sī > se + *yā",
     "compound_type":"fem acc sg of seyyā",
-    "compound_construction":"0"
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -364,8 +364,8 @@
     "root":"√kapp (be fit, be suitable)",
     "base":"√kapp + *e > kappe (caus)",
     "construction":"kappe + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 69",
@@ -376,11 +376,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

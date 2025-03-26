@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":"0",
+    "case":0,
     "meaning":"whichever, whoever",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -54,14 +54,14 @@
     "pali_1":"bhikkhussa",
     "pos":"noun",
     "grammar":"masc gen sg of bhikkhu, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"of a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -86,14 +86,14 @@
     "pali_1":"āpattiṃ",
     "pos":"noun",
     "grammar":"fem acc sg of āpatti, from āpajjati",
-    "case":"0",
+    "case":0,
     "meaning":"offence, transgression, wrongdoing",
     "meaning_lit":"go wrong",
     "root":"√pad (go, step)",
-    "base":"0",
+    "base":0,
     "construction":"ā + √pad + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -102,14 +102,14 @@
     "pali_1":"anupasampannassa",
     "pos":"noun",
     "grammar":"masc dat sg of anupasampanna",
-    "case":"0",
+    "case":0,
     "meaning":"to a not higher ordained person",
     "meaning_lit":"not accomplished",
     "root":"√pad (go, step)",
-    "base":"0",
+    "base":0,
     "construction":"na + upa + saṃ + √pad + na",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -120,12 +120,12 @@
     "grammar":"opt 3rd sg of āroceti",
     "case":"+acc",
     "meaning":"he would state, announce, declare",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√ruc (shine, approve)",
     "base":"√ruc + *e > roce",
     "construction":"ā + roce + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -137,11 +137,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"añña + tra",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",
@@ -150,11 +150,11 @@
     "pali_1":"bhikkhusammutiyā",
     "pos":"noun",
     "grammar":"fem abl sg of bhikkhusammuti, comp",
-    "case":"0",
+    "case":0,
     "meaning":"from monks' permission",
     "meaning_lit":"agreement of the monks",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"bhikkhu + sammuti",
     "compound_type":"genitive tappurisa",
     "compound_construction":"bhikkhūnaṃ + sammuti"
@@ -168,12 +168,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 09",

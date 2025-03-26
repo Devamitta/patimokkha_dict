@@ -53,15 +53,15 @@
     "sentence":"kaṇḍuppaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, ",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"then, now, so, but",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -70,14 +70,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati, comp",
-    "case":"0",
+    "case":0,
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -86,14 +86,14 @@
     "pali_1":"kārayamānena",
     "pos":"prp",
     "grammar":"masc instr sg of kārayamāna, from kāreti",
-    "case":"0",
+    "case":0,
     "meaning":"by (the monk) building",
     "meaning_lit":"causing to make",
     "root":"√kar (do, make)",
     "base":"√kar + *aya > kāraya (caus)",
     "construction":"kāraya + māna",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -102,14 +102,14 @@
     "pali_1":"pamāṇikā",
     "pos":"adj",
     "grammar":"fem nom sg",
-    "case":"0",
+    "case":0,
     "meaning":"according to the measurement, with the right measurement",
     "meaning_lit":"with measure",
     "root":"√mā (measure)",
-    "base":"0",
+    "base":0,
     "construction":"pa + √mā + aṇa + ikā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -118,14 +118,14 @@
     "pali_1":"kāretabbā",
     "pos":"ptp",
     "grammar":"fem nom sg of kāretabba",
-    "case":"0",
+    "case":0,
     "meaning":"should be built",
     "meaning_lit":"to cause to be done",
     "root":"√kar (do, make)",
     "base":"√kar + *e > kāre (caus)",
     "construction":"kāre + tabba",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -134,14 +134,14 @@
     "pali_1":"tatridaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + pron",
-    "case":"0",
+    "case":0,
     "meaning":"in this case this",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"tatra + idaṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -150,14 +150,14 @@
     "pali_1":"pamāṇaṃ",
     "pos":"noun",
     "grammar":"nt nom sg of pamāṇa, from pamiṇāti",
-    "case":"0",
+    "case":0,
     "meaning":"measurement, size",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√mā (measure)",
-    "base":"0",
+    "base":0,
     "construction":"pa + √mā + aṇa",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -166,14 +166,14 @@
     "pali_1":"dīghaso",
     "pos":"ind",
     "grammar":"adv, abl sg of dīgha",
-    "case":"0",
+    "case":0,
     "meaning":"lengthwise, in length",
     "meaning_lit":"from long",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"dīgha + so",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -198,14 +198,14 @@
     "pali_1":"vidatthiyo",
     "pos":"noun",
     "grammar":"fem nom pl",
-    "case":"0",
+    "case":0,
     "meaning":"spans",
     "meaning_lit":"hand-length",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -214,11 +214,11 @@
     "pali_1":"sugatavidatthiyā",
     "pos":"noun",
     "grammar":"fem instr sg, comp",
-    "case":"0",
+    "case":0,
     "meaning":"according to the standard span",
     "meaning_lit":"by well-gone span",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"sugata + vidatthi",
     "compound_type":"kammadhāraya",
     "compound_construction":"sugata + vidatthi"
@@ -230,14 +230,14 @@
     "pali_1":"tiriyaṃ",
     "pos":"ind",
     "grammar":"adv",
-    "case":"0",
+    "case":0,
     "meaning":"across, horizontally, width-wise",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√tir (cross)",
-    "base":"0",
+    "base":0,
     "construction":"√tir + iya + aṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -246,14 +246,14 @@
     "pali_1":"dve",
     "pos":"card",
     "grammar":"x nom pl",
-    "case":"0",
+    "case":0,
     "meaning":"two",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -262,14 +262,14 @@
     "pali_1":"vidatthiyo",
     "pos":"noun",
     "grammar":"fem nom pl",
-    "case":"0",
+    "case":0,
     "meaning":"spans",
     "meaning_lit":"hand-length",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -278,14 +278,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"that",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -294,14 +294,14 @@
     "pali_1":"atikkāmayato",
     "pos":"prp",
     "grammar":"masc dat sg of atikkāmanta",
-    "case":"0",
+    "case":0,
     "meaning":"for (a monk) going beyond, exceeding",
     "meaning_lit":"causing to go too far",
     "root":"√kam (go)",
     "base":"√kam + *aya > kāmaya (caus)",
     "construction":"ati + kāmaya + nta",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -310,14 +310,14 @@
     "pali_1":"chedanakaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of chedanaka",
-    "case":"0",
+    "case":0,
     "meaning":"to be cut, sawed",
     "meaning_lit":"having cut",
     "root":"√chid (cut, steal)",
     "base":"√chid + *e > chede",
     "construction":"chede + ana + akaṃ",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"PC 90",
@@ -328,11 +328,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

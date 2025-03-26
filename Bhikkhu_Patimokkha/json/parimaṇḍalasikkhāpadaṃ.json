@@ -53,15 +53,15 @@
     "sentence":"parimaṇḍalaṃ nivāsessāmī'ti sikkhā karaṇīyā.",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 1",
@@ -86,14 +86,14 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti",
-    "case":"0",
+    "case":0,
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":"0",
+    "base":0,
     "construction":"√kar + aṇīya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 2",
@@ -102,14 +102,14 @@
     "pali_1":"parimaṇḍalaṃ",
     "pos":"ind",
     "grammar":"adv, acc sg of parimaṇḍala",
-    "case":"0",
+    "case":0,
     "meaning":"evenly all around",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"pari + maṇḍala",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 2",
@@ -149,15 +149,15 @@
     "sentence":"parimaṇḍalaṃ pārupissāmī'ti sikkhā karaṇīyā.",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":"0",
-    "case":"0",
+    "grammar":0,
+    "case":0,
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 2",
@@ -166,14 +166,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg",
-    "case":"0",
+    "case":0,
     "meaning":"training, precept, training precept",
-    "meaning_lit":"0",
+    "meaning_lit":0,
     "root":"√sikkh (train)",
-    "base":"0",
+    "base":0,
     "construction":"√sikkh + ā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"SE 2",
@@ -182,13 +182,13 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti",
-    "case":"0",
+    "case":0,
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":"0",
+    "base":0,
     "construction":"√kar + aṇīya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   }
 ]

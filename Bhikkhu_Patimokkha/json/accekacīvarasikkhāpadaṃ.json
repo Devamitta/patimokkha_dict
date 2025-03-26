@@ -22,14 +22,14 @@
     "pali_1":"- dasa",
     "pos":"card",
     "grammar":"x pl",
-    "case":"0",
+    "case":0,
     "meaning":"ten",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -38,14 +38,14 @@
     "pali_1":"- aha",
     "pos":"noun",
     "grammar":"nt",
-    "case":"0",
+    "case":0,
     "meaning":"days",
     "meaning_lit":"day",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -198,14 +198,14 @@
     "pali_1":"bhikkhuno",
     "pos":"noun",
     "grammar":"masc dat sg of bhikkhu, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"for a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -214,14 +214,14 @@
     "pali_1":"paneva",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
-    "case":"0",
+    "case":0,
     "meaning":"and just, and now",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
     "construction":"pana + eva",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -262,14 +262,14 @@
     "pali_1":"- cīvaraṃ",
     "pos":"noun",
     "grammar":"nt nom sg of cīvara",
-    "case":"0",
+    "case":0,
     "meaning":"robe",
     "meaning_lit":"cloth",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -278,14 +278,14 @@
     "pali_1":"uppajjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of uppajjati",
-    "case":"0",
+    "case":0,
     "meaning":"(robe) could appear, becomes available",
     "meaning_lit":"comes up",
     "root":"√pad (go, step)",
     "base":"√pad + ya > pajja",
     "construction":"ud + pajja + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -326,14 +326,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
-    "case":"0",
+    "case":0,
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":"0",
+    "base":0,
     "construction":"√bhikkh + u",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -342,14 +342,14 @@
     "pali_1":"paṭiggahetabbaṃ",
     "pos":"ptp",
     "grammar":"nt acc sg of paṭiggahetabba",
-    "case":"0",
+    "case":0,
     "meaning":"can be accepted, acceptable",
     "meaning_lit":"to be personally grasped",
     "root":"√gah (grasp)",
     "base":"√gah + ṇhā > gahe",
     "construction":"paṭi + gahe + tabba",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -374,14 +374,14 @@
     "pali_1":"paṭiggahetvā",
     "pos":"abs",
     "grammar":"abs of paṭiggaṇhāti",
-    "case":"0",
+    "case":0,
     "meaning":"having accepted, taken",
     "meaning_lit":"having personally grabbed",
     "root":"√gah (grasp)",
     "base":"√gah + ṇhā > gahe",
     "construction":"paṭi + gahe + tvā",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -392,12 +392,12 @@
     "grammar":"adv, prep",
     "case":"+dat",
     "meaning":"until, as long as",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -454,14 +454,14 @@
     "pali_1":"nikkhipitabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nikkhipitabba",
-    "case":"0",
+    "case":0,
     "meaning":"can be stored, kept",
     "meaning_lit":"to be thrown down",
     "root":"√khip (throw)",
-    "base":"0",
+    "base":0,
     "construction":"ni + √khip + itabba",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -486,14 +486,14 @@
     "pali_1":"tato",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
-    "case":"0",
+    "case":0,
     "meaning":"after, then",
     "meaning_lit":"from that",
-    "root":"0",
-    "base":"0",
+    "root":0,
+    "base":0,
     "construction":"ta + to",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -502,14 +502,14 @@
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
-    "case":"0",
+    "case":0,
     "meaning":"if",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -518,14 +518,14 @@
     "pali_1":"uttari",
     "pos":"ind",
     "grammar":"adv, acc sg of uttara",
-    "case":"0",
+    "case":0,
     "meaning":"more, moreover, furthermore",
     "meaning_lit":"higher",
     "root":"√tar (cross)",
-    "base":"0",
+    "base":0,
     "construction":"ud + √tar + a + i",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -534,14 +534,14 @@
     "pali_1":"nikkhipeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg, from nikkhipati",
-    "case":"0",
+    "case":0,
     "meaning":"he should keep, store",
     "meaning_lit":"throw down",
     "root":"√khip (throw)",
     "base":"√khip + a > khipa",
     "construction":"ni + khipa + ti",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -550,14 +550,14 @@
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya, comp",
-    "case":"0",
+    "case":0,
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":"0",
+    "base":0,
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
@@ -568,12 +568,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":"0",
-    "root":"0",
-    "base":"0",
-    "construction":"0",
-    "compound_type":"0",
-    "compound_construction":"0"
+    "meaning_lit":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound_type":0,
+    "compound_construction":0
   },
   {
     "abbrev":"NP 28",
