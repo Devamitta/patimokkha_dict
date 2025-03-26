@@ -15,6 +15,9 @@ DB_DIR=MAIN_DIR + "/json"
 ## Read ods files and generate DF
 df = pd.read_excel("original_sources/Pātimokkha Word by Word.ods", engine="odf")
 
+# Replace "\n" with "<br>" in the original document
+df = df.replace("\n", "<br>")
+
 #Create main dir 
 os.makedirs(MAIN_DIR, exist_ok=True)
 
@@ -36,7 +39,7 @@ for sj in sources_json:
     result_df = df[df["source"] == sj["source"]]
     filtered_result_df = result_df[["abbrev", "source", "sentence", "pali_1", "pos", 
         "grammar", "case", "meaning", "meaning_lit", "root", "base", "construction", 
-        "compound_type", "compound_construction"]].fillna("")
+        "compound_type", "compound_construction"]].fillna("").infer_objects(copy=False)
     filtered_result_df.to_json(DB_DIR + "/" + sj["source"] + 
         ".json", force_ascii=False, orient='records', indent=2)
 
@@ -111,7 +114,7 @@ for source_file in sources_json:
             ln["sentence"].replace(" ", "_") + "\">" + ln["sentence"] + "</b><br>\n")
             define_df = (line_df[line_df["sentence"] == ln["sentence"]])[["pali_1", 
                 "pos", "grammar", "case", "meaning", "meaning_lit", "root", "base", 
-                "construction", "compound_type", "compound_construction"]].fillna("")
+                "construction", "compound_type", "compound_construction"]].fillna("").infer_objects(copy=False)
             definition_table = define_df.to_html(justify='left', 
                 index=False).replace("0", "")
             definition_table = definition_table.replace("pali_1", "pāḷi")
