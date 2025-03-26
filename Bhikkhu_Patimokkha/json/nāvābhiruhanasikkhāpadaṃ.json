@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṃgāminiṃ vā adhogāminiṃ vā aññatra tiriyaṃ taraṇāya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -54,14 +54,14 @@
     "pali_1":"bhikkhuniyā",
     "pos":"noun",
     "grammar":"fem instr sg of bhikkhunī",
-    "case":0,
+    "case":"0",
     "meaning":"by a nun",
     "meaning_lit":"female beggar",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u + [n] + ī",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -72,12 +72,12 @@
     "grammar":"prep",
     "case":"+instr",
     "meaning":"together with",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -86,14 +86,14 @@
     "pali_1":"saṃvidhāya",
     "pos":"verb",
     "grammar":"ger of saṃvidahati",
-    "case":0,
+    "case":"0",
     "meaning":"arranging, organizing",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√dhā (place, support)",
-    "base":0,
+    "base":"0",
     "construction":"saṃ + vi  + √dhā + ya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -198,14 +198,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -246,14 +246,14 @@
     "pali_1":"- gāminiṃ",
     "pos":"adj",
     "grammar":"fem acc sg of gāmī",
-    "case":0,
+    "case":"0",
     "meaning":"going, travelling",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√gam (go)",
-    "base":0,
+    "base":"0",
     "construction":"√gam + *ī",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -262,14 +262,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -281,11 +281,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -294,14 +294,14 @@
     "pali_1":"tiriyaṃ",
     "pos":"ind",
     "grammar":"adv",
-    "case":0,
+    "case":"0",
     "meaning":"across, horizontally, width-wise",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√tir (cross)",
-    "base":0,
+    "base":"0",
     "construction":"√tir + iya + aṃ",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",
@@ -328,12 +328,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 28",

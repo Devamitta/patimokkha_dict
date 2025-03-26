@@ -73,11 +73,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SA 1",

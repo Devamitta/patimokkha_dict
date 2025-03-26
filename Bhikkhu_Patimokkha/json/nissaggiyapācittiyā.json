@@ -6,14 +6,14 @@
     "pali_1":"ime",
     "pos":"pron",
     "grammar":"masc nom pl of ima",
-    "case":0,
+    "case":"0",
     "meaning":"these",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -22,14 +22,14 @@
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
-    "case":0,
+    "case":"0",
     "meaning":"truly, indeed, then",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -38,14 +38,14 @@
     "pali_1":"panāyasmanto",
     "pos":"comp",
     "grammar":"sandhi, ind + masc",
-    "case":0,
+    "case":"0",
     "meaning":"and venerables",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"pana + āyasmanto",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -102,14 +102,14 @@
     "pali_1":"dhammā",
     "pos":"noun",
     "grammar":"masc nom pl of dhamma",
-    "case":0,
+    "case":"0",
     "meaning":"cases, laws, rules",
     "meaning_lit":"holdings, supports",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"0",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -118,14 +118,14 @@
     "pali_1":"uddesaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of uddesa, from uddisati",
-    "case":0,
+    "case":"0",
     "meaning":"recitation, chanting",
     "meaning_lit":"pointing up",
     "root":"√dis (point out, explain)",
-    "base":0,
+    "base":"0",
     "construction":"ud + √dis + *a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -140,8 +140,8 @@
     "root":"√gam (go)",
     "base":"√gam + a > gaccha (irreg)",
     "construction":"ā + gaccha + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -182,14 +182,14 @@
     "pali_1":"uddiṭṭhā",
     "pos":"pp",
     "grammar":"masc nom pl of uddiṭṭha, pp of uddisati",
-    "case":0,
+    "case":"0",
     "meaning":"recited, chanted",
     "meaning_lit":"pointed up",
     "root":"√dis (point out, explain)",
-    "base":0,
+    "base":"0",
     "construction":"ud + √dis + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -198,14 +198,14 @@
     "pali_1":"kho",
     "pos":"ind",
     "grammar":"emph",
-    "case":0,
+    "case":"0",
     "meaning":"truly, indeed, then",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -214,14 +214,14 @@
     "pali_1":"āyasmanto",
     "pos":"noun",
     "grammar":"masc voc pl of āyasmant",
-    "case":0,
+    "case":"0",
     "meaning":"venerables",
     "meaning_lit":"having long life",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"āyas + mant",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -230,14 +230,14 @@
     "pali_1":"tiṃsa",
     "pos":"card",
     "grammar":"fem nom sg of tiṃsā",
-    "case":0,
+    "case":"0",
     "meaning":"thirty",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"ti + dasa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -246,14 +246,14 @@
     "pali_1":"nissaggiyā",
     "pos":"ptp",
     "grammar":"masc nom pl of nissaggiya",
-    "case":0,
+    "case":"0",
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":0,
+    "base":"0",
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -262,14 +262,14 @@
     "pali_1":"pācittiyā",
     "pos":"adj",
     "grammar":"masc nom pl of pācittiya",
-    "case":0,
+    "case":"0",
     "meaning":"requiring confession, involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -278,14 +278,14 @@
     "pali_1":"dhammā",
     "pos":"noun",
     "grammar":"masc nom pl of dhamma",
-    "case":0,
+    "case":"0",
     "meaning":"cases, laws, rules",
     "meaning_lit":"holdings, supports",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"0",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -294,14 +294,14 @@
     "pali_1":"tatthāyasmante",
     "pos":"comp",
     "grammar":"sandhi, adv + masc",
-    "case":0,
+    "case":"0",
     "meaning":"in that case the venerables",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"tattha + āyasmante",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -310,14 +310,14 @@
     "pali_1":"pucchāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of pucchati",
-    "case":0,
+    "case":"0",
     "meaning":"I ask, I am asking",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pucch (ask)",
     "base":"√pucch + a > puccha",
     "construction":"puccha + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -326,14 +326,14 @@
     "pali_1":"kaccittha",
     "pos":"comp",
     "grammar":"sandhi, ind + adv (or) ind + pr",
-    "case":0,
+    "case":"0",
     "meaning":"I trust in this case, (or) I trust you all are",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"kacci + ettha or kacci + attha",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -342,14 +342,14 @@
     "pali_1":"parisuddhā",
     "pos":"pp",
     "grammar":"masc nom pl of parisuddha, pp of parisujjhati",
-    "case":0,
+    "case":"0",
     "meaning":"pure, innocent",
     "meaning_lit":"purified",
     "root":"√sudh (be pure)",
-    "base":0,
+    "base":"0",
     "construction":"pari + √sudh + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -358,14 +358,14 @@
     "pali_1":"dutiyampi",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
-    "case":0,
+    "case":"0",
     "meaning":"and for the second time",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"dutiyaṃ + api",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -374,14 +374,14 @@
     "pali_1":"pucchāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of pucchati",
-    "case":0,
+    "case":"0",
     "meaning":"I ask, I am asking",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pucch (ask)",
     "base":"√pucch + a > puccha",
     "construction":"puccha + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -390,14 +390,14 @@
     "pali_1":"kaccittha",
     "pos":"comp",
     "grammar":"sandhi, ind + adv (or) ind + pr",
-    "case":0,
+    "case":"0",
     "meaning":"I trust in this case, (or) I trust you all are",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"kacci + ettha or kacci + attha",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -406,14 +406,14 @@
     "pali_1":"parisuddhā",
     "pos":"pp",
     "grammar":"masc nom pl of parisuddha, pp of parisujjhati",
-    "case":0,
+    "case":"0",
     "meaning":"pure, innocent",
     "meaning_lit":"purified",
     "root":"√sudh (be pure)",
-    "base":0,
+    "base":"0",
     "construction":"pari + √sudh + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -422,14 +422,14 @@
     "pali_1":"tatiyampi",
     "pos":"comp",
     "grammar":"sandhi, adv + ind",
-    "case":0,
+    "case":"0",
     "meaning":"and for the third time",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"tatiyaṃ + api",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -438,14 +438,14 @@
     "pali_1":"pucchāmi",
     "pos":"verb",
     "grammar":"pr 1st sg of pucchati",
-    "case":0,
+    "case":"0",
     "meaning":"I ask, I am asking",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pucch (ask)",
     "base":"√pucch + a > puccha",
     "construction":"puccha + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -454,14 +454,14 @@
     "pali_1":"kaccittha",
     "pos":"comp",
     "grammar":"sandhi, ind + adv (or) ind + pr",
-    "case":0,
+    "case":"0",
     "meaning":"I trust in this case, (or) I trust you all are",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"kacci + ettha or kacci + attha",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -470,14 +470,14 @@
     "pali_1":"parisuddhā",
     "pos":"pp",
     "grammar":"masc nom pl of parisuddha, pp of parisujjhati",
-    "case":0,
+    "case":"0",
     "meaning":"pure, innocent",
     "meaning_lit":"purified",
     "root":"√sudh (be pure)",
-    "base":0,
+    "base":"0",
     "construction":"pari + √sudh + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -486,14 +486,14 @@
     "pali_1":"parisuddhetthāyasmanto",
     "pos":"comp",
     "grammar":"sandhi, pp + adv + masc",
-    "case":0,
+    "case":"0",
     "meaning":"the venerables (are) pure in this regard",
     "meaning_lit":"the long lived ones are pure here",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"parisuddhā + ettha + āyasmanto",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -502,14 +502,14 @@
     "pali_1":"tasmā",
     "pos":"ind",
     "grammar":"adv, abl sg of ta",
-    "case":0,
+    "case":"0",
     "meaning":"therefore",
     "meaning_lit":"from that",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"ta + smā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -518,14 +518,14 @@
     "pali_1":"tuṇhī",
     "pos":"ind",
     "grammar":"adv",
-    "case":0,
+    "case":"0",
     "meaning":"silent, silence, silently",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -534,14 +534,14 @@
     "pali_1":"evametaṃ",
     "pos":"comp",
     "grammar":"sandhi, adv + pron",
-    "case":0,
+    "case":"0",
     "meaning":"therefore this",
     "meaning_lit":"thus this",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"evaṃ + etaṃ",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -556,8 +556,8 @@
     "root":"√dhar (wear, hold, carry)",
     "base":"√dhar + *aya > dhāraya",
     "construction":"dhāraya + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -582,14 +582,14 @@
     "pali_1":"tiṃsa",
     "pos":"card",
     "grammar":"fem nom sg of tiṃsā",
-    "case":0,
+    "case":"0",
     "meaning":"thirty",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"ti + dasa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -598,14 +598,14 @@
     "pali_1":"nissaggiyā",
     "pos":"ptp",
     "grammar":"masc nom pl of nissaggiya",
-    "case":0,
+    "case":"0",
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":0,
+    "base":"0",
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -614,14 +614,14 @@
     "pali_1":"pācittiyā",
     "pos":"adj",
     "grammar":"masc nom pl of pācittiya",
-    "case":0,
+    "case":"0",
     "meaning":"requiring confession, involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",
@@ -630,14 +630,14 @@
     "pali_1":"dhammā",
     "pos":"noun",
     "grammar":"masc nom pl of dhamma",
-    "case":0,
+    "case":"0",
     "meaning":"cases, laws, rules",
     "meaning_lit":"holdings, supports",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"0",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP",

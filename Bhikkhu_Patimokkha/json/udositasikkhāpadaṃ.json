@@ -6,11 +6,11 @@
     "pali_1":"niṭṭhitacīvarasmiṃ",
     "pos":"noun",
     "grammar":"nt loc sg of niṭṭhitacīvara, comp",
-    "case":0,
+    "case":"0",
     "meaning":"when the robe is complete, when the robe has been made",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"niṭṭhita + cīvara",
     "compound_type":"kammadhāraya",
     "compound_construction":"niṭṭhita + cīvara"
@@ -22,14 +22,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati",
-    "case":0,
+    "case":"0",
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -38,14 +38,14 @@
     "pali_1":"ubbhatasmiṃ",
     "pos":"pp",
     "grammar":"nt loc sg of ubbhata",
-    "case":0,
+    "case":"0",
     "meaning":"when withdrawn, when suspended",
     "meaning_lit":"in held up",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"0",
     "construction":"ud + √dhar + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -54,14 +54,14 @@
     "pali_1":"kathine",
     "pos":"noun",
     "grammar":"nt loc sg of kathina",
-    "case":0,
+    "case":"0",
     "meaning":"when the Kathina privileges",
     "meaning_lit":"in wooden frame",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -134,14 +134,14 @@
     "pali_1":"- api",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"then, and, now, even, also",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"(a)pi",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -150,14 +150,14 @@
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
-    "case":0,
+    "case":"0",
     "meaning":"if",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -166,14 +166,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -249,11 +249,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -278,14 +278,14 @@
     "pali_1":"- bhikkhu",
     "pos":"noun",
     "grammar":"masc, from bhikkhati",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -310,14 +310,14 @@
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
-    "case":0,
+    "case":"0",
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":0,
+    "base":"0",
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",
@@ -328,12 +328,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 2",

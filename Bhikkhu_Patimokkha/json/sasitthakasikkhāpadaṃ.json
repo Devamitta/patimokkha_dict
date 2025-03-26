@@ -6,14 +6,14 @@
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
-    "case":0,
+    "case":"0",
     "meaning":"not",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 56",
@@ -54,14 +54,14 @@
     "pali_1":"- patta 2",
     "pos":"noun",
     "grammar":"masc",
-    "case":0,
+    "case":"0",
     "meaning":"bowl",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pā (drink)",
-    "base":0,
+    "base":"0",
     "construction":"√pā + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 56",
@@ -86,11 +86,11 @@
     "pali_1":"antaraghare",
     "pos":"noun",
     "grammar":"nt loc sg of antaraghara, comp",
-    "case":0,
+    "case":"0",
     "meaning":"inside the village, around the village",
     "meaning_lit":"in-between house",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"antara + ghara",
     "compound_type":"kammadhāraya",
     "compound_construction":"antara + ghara"
@@ -133,15 +133,15 @@
     "sentence":"na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmī'ti sikkhā karaṇīyā.",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 56",
@@ -150,14 +150,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
-    "case":0,
+    "case":"0",
     "meaning":"training, precept, training precept",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√sikkh (train)",
-    "base":0,
+    "base":"0",
     "construction":"√sikkh + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 56",
@@ -166,13 +166,13 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti, comp",
-    "case":0,
+    "case":"0",
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":0,
+    "base":"0",
     "construction":"√kar + aṇīya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

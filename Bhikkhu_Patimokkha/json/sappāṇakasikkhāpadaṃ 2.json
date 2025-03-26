@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -54,14 +54,14 @@
     "pali_1":"jānaṃ",
     "pos":"ind",
     "grammar":"adv, from jānanta",
-    "case":0,
+    "case":"0",
     "meaning":"knowingly, consciously, wittingly",
     "meaning_lit":"knowing",
     "root":"√ñā (know)",
     "base":"√ñā + nā > jānā",
     "construction":"jānā + aṃ",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -70,14 +70,14 @@
     "pali_1":"sappāṇakaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of sappāṇaka",
-    "case":0,
+    "case":"0",
     "meaning":"containing living beings",
     "meaning_lit":"with breath",
     "root":"√an (breath)",
-    "base":0,
+    "base":"0",
     "construction":"sa + pa + √an + a + ka",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -86,14 +86,14 @@
     "pali_1":"udakaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of udaka",
-    "case":0,
+    "case":"0",
     "meaning":"water",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√ud (be wet)",
-    "base":0,
+    "base":"0",
     "construction":"√ud + aka",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -102,14 +102,14 @@
     "pali_1":"paribhuñjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of paribhuñjati",
-    "case":0,
+    "case":"0",
     "meaning":"he would use, make use of",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√bhuj (eat, enjoy)",
     "base":"√bhuj + ṃa > bhuñja",
     "construction":"pari + bhuñja + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 62",
@@ -120,11 +120,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",
@@ -54,11 +54,11 @@
     "pali_1":"mātugāmena",
     "pos":"noun",
     "grammar":"masc instr sg of mātugāma, comp",
-    "case":0,
+    "case":"0",
     "meaning":"with a woman",
     "meaning_lit":"group of mothers",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"mātu + gāma",
     "compound_type":"genitive tappurisa",
     "compound_construction":"mātūnaṃ + gāma"
@@ -70,14 +70,14 @@
     "pali_1":"sahaseyyaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of sahaseyyā",
-    "case":0,
+    "case":"0",
     "meaning":"sharing a room",
     "meaning_lit":"sleeping together",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"saha + seyyā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",
@@ -92,8 +92,8 @@
     "root":"√kapp (be fit, be suitable)",
     "base":"√kapp + *e > kappe (caus)",
     "construction":"kappe + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",
@@ -104,12 +104,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 06",

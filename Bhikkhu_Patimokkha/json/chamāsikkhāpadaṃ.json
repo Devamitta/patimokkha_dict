@@ -6,14 +6,14 @@
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
-    "case":0,
+    "case":"0",
     "meaning":"not",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -54,14 +54,14 @@
     "pali_1":"āsane",
     "pos":"noun",
     "grammar":"nt loc sg of āsana",
-    "case":0,
+    "case":"0",
     "meaning":"on a seat",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√ās (sit)",
-    "base":0,
+    "base":"0",
     "construction":"√ās + ana",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -70,14 +70,14 @@
     "pali_1":"nisinnassa",
     "pos":"pp",
     "grammar":"masc dat sg of nisinna",
-    "case":0,
+    "case":"0",
     "meaning":"to seated (a person), sitting",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√sad",
     "base":"√sad + a > sīda",
     "construction":"ni + sīda + na",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -86,14 +86,14 @@
     "pali_1":"agilānassa",
     "pos":"adj",
     "grammar":"masc dat sg of agilāna",
-    "case":0,
+    "case":"0",
     "meaning":"to (someone who is) not sick",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√gilā (be sick, tired)",
-    "base":0,
+    "base":"0",
     "construction":"na + √gilā + ana",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -102,14 +102,14 @@
     "pali_1":"dhammaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of dhamma",
-    "case":0,
+    "case":"0",
     "meaning":"act, practice, behaviour",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√dhar (hold)",
-    "base":0,
+    "base":"0",
     "construction":"√dhar + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -118,14 +118,14 @@
     "pali_1":"desessāmīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
-    "case":0,
-    "meaning":0,
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "case":"0",
+    "meaning":"0",
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"desissāmi + iti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -134,14 +134,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
-    "case":0,
+    "case":"0",
     "meaning":"training, precept, training precept",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√sikkh (train)",
-    "base":0,
+    "base":"0",
     "construction":"√sikkh + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 68",
@@ -150,13 +150,13 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti, comp",
-    "case":0,
+    "case":"0",
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":0,
+    "base":"0",
     "construction":"√kar + aṇīya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

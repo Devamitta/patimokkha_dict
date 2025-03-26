@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu agilāno visibban'āpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -54,14 +54,14 @@
     "pali_1":"agilāno",
     "pos":"adj",
     "grammar":"masc nom sg of agilāna",
-    "case":0,
+    "case":"0",
     "meaning":"healthy",
     "meaning_lit":"not sick",
     "root":"√gilā (be sick, tired)",
-    "base":0,
+    "base":"0",
     "construction":"na + √gilā + na",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -106,10 +106,10 @@
     "meaning":"seeking, wanting",
     "meaning_lit":"looking away",
     "root":"√ikkh (see)",
-    "base":0,
+    "base":"0",
     "construction":"apa + √ikkha + a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -150,14 +150,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -182,14 +182,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -201,11 +201,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 56",
@@ -214,11 +214,11 @@
     "pali_1":"tathārūpappaccayā",
     "pos":"noun",
     "grammar":"masc abl sg of tathārūpappaccaya, comp",
-    "case":0,
+    "case":"0",
     "meaning":"suitable reason, appropriate cause",
     "meaning_lit":"such form condition",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"tathārūpa + paccaya",
     "compound_type":"kammadhāraya",
     "compound_construction":"tathārūpa + paccaya"
@@ -232,11 +232,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

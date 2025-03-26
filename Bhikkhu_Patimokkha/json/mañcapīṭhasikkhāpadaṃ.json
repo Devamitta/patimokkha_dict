@@ -6,14 +6,14 @@
     "pali_1":"navaṃ",
     "pos":"adj",
     "grammar":"nt nom sg of nava",
-    "case":0,
+    "case":"0",
     "meaning":"new",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -21,15 +21,15 @@
     "sentence":"navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭh'aṅgulapādakaṃ kāretabbaṃ sugat'aṅgulena aññatra heṭṭhimāya aṭaniyā.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhunā",
     "pos":"noun",
     "grammar":"masc instr sg of bhikkhu, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"by a monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -54,14 +54,14 @@
     "pali_1":"mañcaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of mañca",
-    "case":0,
+    "case":"0",
     "meaning":"bed, couch",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -70,14 +70,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -86,14 +86,14 @@
     "pali_1":"pīṭhaṃ",
     "pos":"noun",
     "grammar":"nt acc sg of pīṭha",
-    "case":0,
+    "case":"0",
     "meaning":"chair",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -102,14 +102,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -118,14 +118,14 @@
     "pali_1":"kārayamānena",
     "pos":"prp",
     "grammar":"masc instr sg of kārayamāna, from kāreti",
-    "case":0,
+    "case":"0",
     "meaning":"by (the monk) building",
     "meaning_lit":"causing to make",
     "root":"√kar (do, make)",
     "base":"√kar + *aya > kāraya (caus)",
     "construction":"kāraya + māna",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -182,14 +182,14 @@
     "pali_1":"- pādakaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of pādaka",
-    "case":0,
+    "case":"0",
     "meaning":"having legs, with feet",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pad (go, step)",
-    "base":0,
+    "base":"0",
     "construction":"√pad + *a + ka",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -198,14 +198,14 @@
     "pali_1":"kāretabbaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of kāretabba",
-    "case":0,
+    "case":"0",
     "meaning":"should be made",
     "meaning_lit":"to cause to be done",
     "root":"√kar (do, make)",
     "base":"√kar + *e > kāre (caus)",
     "construction":"kāre + tabba",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -229,15 +229,15 @@
     "sentence":"navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭh'aṅgulapādakaṃ kāretabbaṃ sugat'aṅgulena aññatra heṭṭhimāya aṭaniyā.",
     "pali_1":"- sugata",
     "pos":"adj",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"standard; commonly accepted",
     "meaning_lit":"well gone",
     "root":"√gam (go)",
-    "base":0,
+    "base":"0",
     "construction":"su + √gam + ta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -265,11 +265,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -310,14 +310,14 @@
     "pali_1":"taṃ",
     "pos":"pron",
     "grammar":"masc\/fem\/nt acc sg of ta",
-    "case":0,
+    "case":"0",
     "meaning":"that",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -326,14 +326,14 @@
     "pali_1":"atikkāmayato",
     "pos":"prp",
     "grammar":"masc dat sg of atikkāmanta",
-    "case":0,
+    "case":"0",
     "meaning":"for (a monk) going beyond, exceeding",
     "meaning_lit":"causing to go too far",
     "root":"√kam (go)",
     "base":"√kam + *aya > kāmaya (caus)",
     "construction":"ati + kāmaya + nta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 87",
@@ -360,11 +360,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

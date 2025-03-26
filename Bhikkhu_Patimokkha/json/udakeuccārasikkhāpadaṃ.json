@@ -6,14 +6,14 @@
     "pali_1":"na",
     "pos":"ind",
     "grammar":"neg",
-    "case":0,
+    "case":"0",
     "meaning":"not",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -22,14 +22,14 @@
     "pali_1":"udake",
     "pos":"noun",
     "grammar":"nt loc sg of udaka",
-    "case":0,
+    "case":"0",
     "meaning":"in water",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√ud (be wet)",
-    "base":0,
+    "base":"0",
     "construction":"√ud + aka",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -38,14 +38,14 @@
     "pali_1":"agilāno",
     "pos":"adj",
     "grammar":"masc nom sg of agilāna",
-    "case":0,
+    "case":"0",
     "meaning":"healthy",
     "meaning_lit":"not sick",
     "root":"√gilā (be sick, tired)",
-    "base":0,
+    "base":"0",
     "construction":"na + √gilā + na",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -54,14 +54,14 @@
     "pali_1":"uccāraṃ",
     "pos":"noun",
     "grammar":"masc acc sg of uccāra",
-    "case":0,
+    "case":"0",
     "meaning":"excrement",
     "meaning_lit":"discharge",
     "root":"√car (walk, behave)",
-    "base":0,
+    "base":"0",
     "construction":"ud + √car + *a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -70,14 +70,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -86,14 +86,14 @@
     "pali_1":"passāvaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of passāva",
-    "case":0,
+    "case":"0",
     "meaning":"urine",
     "meaning_lit":"flowing out",
     "root":"√su (go, flow)",
-    "base":0,
+    "base":"0",
     "construction":"pa + √su  > sav + *a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -102,14 +102,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -118,14 +118,14 @@
     "pali_1":"kheḷaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of kheḷa",
-    "case":0,
+    "case":"0",
     "meaning":"spit, saliva",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -134,14 +134,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -150,14 +150,14 @@
     "pali_1":"karissāmīti",
     "pos":"comp",
     "grammar":"sandhi, fut + ind",
-    "case":0,
-    "meaning":0,
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "case":"0",
+    "meaning":"0",
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"karissāmi + iti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -166,14 +166,14 @@
     "pali_1":"sikkhā",
     "pos":"noun",
     "grammar":"fem nom sg, comp",
-    "case":0,
+    "case":"0",
     "meaning":"training, precept, training precept",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√sikkh (train)",
-    "base":0,
+    "base":"0",
     "construction":"√sikkh + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -182,14 +182,14 @@
     "pali_1":"karaṇīyā",
     "pos":"noun",
     "grammar":"nt abl sg of karaṇīya, ptp of karoti, comp",
-    "case":0,
+    "case":"0",
     "meaning":"duty; obligation; business; something to be done",
     "meaning_lit":"to be done",
     "root":"√kar (do, make)",
-    "base":0,
+    "base":"0",
     "construction":"√kar + aṇīya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -214,14 +214,14 @@
     "pali_1":"- pādukā",
     "pos":"noun",
     "grammar":"fem",
-    "case":0,
+    "case":"0",
     "meaning":"shoes",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pad (go, step)",
-    "base":0,
+    "base":"0",
     "construction":"√pad + *a + ukā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -230,14 +230,14 @@
     "pali_1":"- vaggo",
     "pos":"noun",
     "grammar":"masc nom sg of vagga",
-    "case":0,
+    "case":"0",
     "meaning":"chapter; section",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"vi + agga",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"SE 75",
@@ -246,13 +246,13 @@
     "pali_1":"sattamo",
     "pos":"ordin",
     "grammar":"masc nom sg of sattama",
-    "case":0,
+    "case":"0",
     "meaning":"seventh (7th) ",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"satta + ma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

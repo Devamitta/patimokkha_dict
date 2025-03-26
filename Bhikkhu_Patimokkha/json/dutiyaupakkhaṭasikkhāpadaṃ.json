@@ -6,14 +6,14 @@
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -22,14 +22,14 @@
     "pali_1":"paneva",
     "pos":"comp",
     "grammar":"sandhi, ind + ind",
-    "case":0,
+    "case":"0",
     "meaning":"and just, and now",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"pana + eva",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -42,10 +42,10 @@
     "meaning":"in the name of, especially for",
     "meaning_lit":"pointing up",
     "root":"√dis (point out, explain)",
-    "base":0,
+    "base":"0",
     "construction":"ud + √dis + ya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -102,14 +102,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -134,14 +134,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -246,14 +246,14 @@
     "pali_1":"honti",
     "pos":"verb",
     "grammar":"pr 3rd pl of hoti",
-    "case":0,
+    "case":"0",
     "meaning":"they are, there are",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√hū (be)",
     "base":"√hū + a > ho",
     "construction":"ho + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -342,14 +342,14 @@
     "pali_1":"cetāpetvā",
     "pos":"verb",
     "grammar":"abs of cetāpeti",
-    "case":0,
+    "case":"0",
     "meaning":"having exchanged",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√cit (mark)",
     "base":"√cit + *āpe > cetāpe (caus)",
     "construction":"cetāpe + tvā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -358,14 +358,14 @@
     "pali_1":"itthannāmaṃ",
     "pos":"adj",
     "grammar":"masc acc sg of itthannāma",
-    "case":0,
+    "case":"0",
     "meaning":"called such and such",
     "meaning_lit":"such name",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"itthaṃ + nāma",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -374,14 +374,14 @@
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -390,14 +390,14 @@
     "pali_1":"cīvarehi",
     "pos":"noun",
     "grammar":"nt instr pl of cīvara",
-    "case":0,
+    "case":"0",
     "meaning":"with robes",
     "meaning_lit":"cloths",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -437,15 +437,15 @@
     "sentence":"imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthan'nāmaṃ bhikkhuṃ cīvarehi acchādessāmā'ti",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -470,14 +470,14 @@
     "pali_1":"tatra",
     "pos":"ind",
     "grammar":"adv, from ta",
-    "case":0,
+    "case":"0",
     "meaning":"there, in this case, in this regard",
     "meaning_lit":"there",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"ta + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -486,14 +486,14 @@
     "pali_1":"ce",
     "pos":"ind",
     "grammar":"cond",
-    "case":0,
+    "case":"0",
     "meaning":"if",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -502,14 +502,14 @@
     "pali_1":"so",
     "pos":"pron",
     "grammar":"masc nom sg of ta",
-    "case":0,
+    "case":"0",
     "meaning":"he, that",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -518,14 +518,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -534,14 +534,14 @@
     "pali_1":"pubbe",
     "pos":"ind",
     "grammar":"adv, loc sg of pubba",
-    "case":0,
+    "case":"0",
     "meaning":"before, previously",
     "meaning_lit":"in front",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"pubba + e",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -550,14 +550,14 @@
     "pali_1":"appavārito",
     "pos":"pp",
     "grammar":"masc nom sg of appavārita",
-    "case":0,
+    "case":"0",
     "meaning":"uninvited",
     "meaning_lit":"not requested",
     "root":"√var (wish, choose)",
     "base":"√var + *e > vāre",
     "construction":"na + pa + vāre + ita",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -566,14 +566,14 @@
     "pali_1":"upasaṅkamitvā",
     "pos":"verb",
     "grammar":"abs of upasaṅkamati",
-    "case":0,
+    "case":"0",
     "meaning":"having approached",
     "meaning_lit":"having gone near",
     "root":"√kam (go)",
-    "base":0,
+    "base":"0",
     "construction":"upa + saṃ + √kam + itvā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -582,14 +582,14 @@
     "pali_1":"cīvare",
     "pos":"noun",
     "grammar":"nt loc sg of cīvara",
-    "case":0,
+    "case":"0",
     "meaning":"of robe",
     "meaning_lit":"in the cloth",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -600,12 +600,12 @@
     "grammar":"masc acc sg of vikappa",
     "case":"+loc",
     "meaning":"alteration, change",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√kapp (be fit, be suitable)",
-    "base":0,
+    "base":"0",
     "construction":"vi + √kapp + a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -614,14 +614,14 @@
     "pali_1":"āpajjeyya",
     "pos":"verb",
     "grammar":"opt 3rd sg of āpajjati",
-    "case":0,
+    "case":"0",
     "meaning":"would cause",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pad (go, step)",
     "base":"√pad + ya > pajja",
     "construction":"ā + pajja + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -650,10 +650,10 @@
     "meaning":"it is good (for); it would be good (if)",
     "meaning_lit":"good",
     "root":"√sādh (accomplish)",
-    "base":0,
+    "base":"0",
     "construction":"√sādh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -662,14 +662,14 @@
     "pali_1":"vata",
     "pos":"ind",
     "grammar":"emph",
-    "case":0,
+    "case":"0",
     "meaning":"indeed, truly",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -678,14 +678,14 @@
     "pali_1":"maṃ",
     "pos":"pron",
     "grammar":"1st acc sg of ahaṃ",
-    "case":0,
+    "case":"0",
     "meaning":"to me, for me, me",
     "meaning_lit":"me",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -694,14 +694,14 @@
     "pali_1":"āyasmanto",
     "pos":"noun",
     "grammar":"masc voc pl of āyasmant",
-    "case":0,
+    "case":"0",
     "meaning":"venerables",
     "meaning_lit":"having long life",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"āyas + mant",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -710,14 +710,14 @@
     "pali_1":"imehi",
     "pos":"pron",
     "grammar":"nt instr pl of ima",
-    "case":0,
+    "case":"0",
     "meaning":"with these",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -726,14 +726,14 @@
     "pali_1":"paccekacīvaracetāpannehi",
     "pos":"noun",
     "grammar":"nt isntr pl of paccekacīvaracetāpanna, comp",
-    "case":0,
+    "case":"0",
     "meaning":"with individual robe funds, separate cloth accounts",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"pacceka + cīvara + cetāpanna",
     "compound_type":"kammadhāraya",
-    "compound_construction":0
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -742,14 +742,14 @@
     "pali_1":"evarūpaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of evarūpa",
-    "case":0,
+    "case":"0",
     "meaning":"such, like this, of such quality",
     "meaning_lit":"such form",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"eva + rūpa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -758,14 +758,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -774,14 +774,14 @@
     "pali_1":"evarūpaṃ",
     "pos":"adj",
     "grammar":"nt acc sg of evarūpa",
-    "case":0,
+    "case":"0",
     "meaning":"such, like this, of such quality",
     "meaning_lit":"such form",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"eva + rūpa",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -790,14 +790,14 @@
     "pali_1":"vā",
     "pos":"ind",
     "grammar":"conj",
-    "case":0,
+    "case":"0",
     "meaning":"or, either or",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -806,14 +806,14 @@
     "pali_1":"cīvaraṃ",
     "pos":"noun",
     "grammar":"nt acc sg of cīvara",
-    "case":0,
+    "case":"0",
     "meaning":"robe",
     "meaning_lit":"cloth",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -822,14 +822,14 @@
     "pali_1":"cetāpetvā",
     "pos":"verb",
     "grammar":"abs of cetāpeti",
-    "case":0,
+    "case":"0",
     "meaning":"having exchanged",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√cit (mark)",
     "base":"√cit + *āpe > cetāpe (caus)",
     "construction":"cetāpe + tvā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -886,14 +886,14 @@
     "pali_1":"- eva",
     "pos":"ind",
     "grammar":"emph",
-    "case":0,
+    "case":"0",
     "meaning":"just, only",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -902,14 +902,14 @@
     "pali_1":"santā",
     "pos":"prp",
     "grammar":"masc nom pl of santa, prp of atthi",
-    "case":0,
+    "case":"0",
     "meaning":"present",
     "meaning_lit":"being, existing",
     "root":"√as (be)",
     "base":"√as > sa",
     "construction":"sa + nta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -934,14 +934,14 @@
     "pali_1":"- ekena",
     "pos":"card",
     "grammar":"masc instr sg of eka",
-    "case":0,
+    "case":"0",
     "meaning":"by one",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -949,15 +949,15 @@
     "sentence":"sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubho'va santā ekenā'ti",
     "pali_1":"- iti",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"“”",
     "meaning_lit":"thus",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -982,11 +982,11 @@
     "pali_1":"kalyāṇakamyataṃ",
     "pos":"noun",
     "grammar":"fem acc sg of kalyāṇakamyatā, comp",
-    "case":0,
+    "case":"0",
     "meaning":"desire for something good",
     "meaning_lit":"desire good",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"kalyāṇa + kamyatā",
     "compound_type":"dative tappurisa",
     "compound_construction":"kalyāṇassa + kamyatā"
@@ -1002,10 +1002,10 @@
     "meaning":"based on, on account of, using",
     "meaning_lit":"taking near",
     "root":"√ādā (take, steal)",
-    "base":0,
+    "base":"0",
     "construction":"upa + √ādā + ya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -1014,14 +1014,14 @@
     "pali_1":"nissaggiyaṃ",
     "pos":"ptp",
     "grammar":"nt nom sg of nissaggiya",
-    "case":0,
+    "case":"0",
     "meaning":"involving relinquishment",
     "meaning_lit":"to be given up",
     "root":"√sajj (relinquish, let loose)",
-    "base":0,
+    "base":"0",
     "construction":"ni + √sajj > sagg + iya",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",
@@ -1032,12 +1032,12 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"NP 9",

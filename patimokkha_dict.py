@@ -40,7 +40,8 @@ for sj in sources_json:
     filtered_result_df = result_df[["abbrev", "source", "sentence", "pali_1", "pos", 
     "grammar", "case", "meaning", "meaning_lit", "root", "base", "construction", 
     "compound_type", "compound_construction"]]
-    filtered_result_df = filtered_result_df.fillna("").infer_objects(copy=False)
+    filtered_result_df = filtered_result_df.fillna("")
+    filtered_result_df = filtered_result_df.astype(str)
     filtered_result_df.to_json(DB_DIR + "/" + sj["source"] + 
         ".json", force_ascii=False, orient='records', indent=2)
 
@@ -116,7 +117,8 @@ for source_file in sources_json:
             define_df = line_df[line_df["sentence"] == ln["sentence"]][["pali_1", 
                 "pos", "grammar", "case", "meaning", "meaning_lit", "root", "base", 
                 "construction", "compound_type", "compound_construction"]]
-            define_df = define_df.fillna("").infer_objects(copy=False)
+            define_df = define_df.fillna("")
+            define_df = define_df.astype(str)
             definition_table = define_df.to_html(justify='left', 
                 index=False).replace("0", "")
             definition_table = definition_table.replace("pali_1", "pāḷi")

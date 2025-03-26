@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -54,11 +54,11 @@
     "pali_1":"mātugāmena",
     "pos":"noun",
     "grammar":"masc instr sg of mātugāma, comp",
-    "case":0,
+    "case":"0",
     "meaning":"with a woman",
     "meaning_lit":"group of mothers",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"mātu + gāma",
     "compound_type":"genitive tappurisa",
     "compound_construction":"mātūnaṃ + gāma"
@@ -72,12 +72,12 @@
     "grammar":"prep",
     "case":"+instr",
     "meaning":"together with",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -86,14 +86,14 @@
     "pali_1":"raho",
     "pos":"ind",
     "grammar":"adv, masc nom sg of rahas",
-    "case":0,
+    "case":"0",
     "meaning":"secretly, privately",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√rah (leave)",
-    "base":0,
+    "base":"0",
     "construction":"√rah + as",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -102,14 +102,14 @@
     "pali_1":"paṭicchanne",
     "pos":"pp",
     "grammar":"nt loc sg of paṭicchanna",
-    "case":0,
+    "case":"0",
     "meaning":"on covered, concealed",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√chad (cover, conceal)",
-    "base":0,
+    "base":"0",
     "construction":"paṭi + √chad + na",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -118,14 +118,14 @@
     "pali_1":"āsane",
     "pos":"noun",
     "grammar":"nt loc sg of āsana",
-    "case":0,
+    "case":"0",
     "meaning":"on a seat",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√ās (sit)",
-    "base":0,
+    "base":"0",
     "construction":"√ās + ana",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -134,14 +134,14 @@
     "pali_1":"nisajjaṃ",
     "pos":"noun",
     "grammar":"fem acc sg of nisajjā",
-    "case":0,
+    "case":"0",
     "meaning":"seat (or) sitting down",
     "meaning_lit":"seating",
     "root":"√sad (sink, sit, settle)",
-    "base":0,
+    "base":"0",
     "construction":"ni + √sad + ya + ā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -156,8 +156,8 @@
     "root":"√kapp (be fit, be suitable)",
     "base":"√kapp + *e > kappe (caus)",
     "construction":"kappe + ti",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 44",
@@ -168,11 +168,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]

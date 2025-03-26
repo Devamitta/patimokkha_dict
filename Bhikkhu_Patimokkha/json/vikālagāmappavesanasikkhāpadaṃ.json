@@ -6,14 +6,14 @@
     "pali_1":"yo",
     "pos":"pron",
     "grammar":"masc nom sg of ya",
-    "case":0,
+    "case":"0",
     "meaning":"whichever, whoever",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -21,15 +21,15 @@
     "sentence":"yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā vikāle gāmaṃ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṃ.",
     "pali_1":"pana",
     "pos":"ind",
-    "grammar":0,
-    "case":0,
+    "grammar":"0",
+    "case":"0",
     "meaning":"then, now, so, but",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -38,14 +38,14 @@
     "pali_1":"bhikkhu",
     "pos":"noun",
     "grammar":"masc nom sg, from bhikkhati, comp",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -54,14 +54,14 @@
     "pali_1":"santaṃ",
     "pos":"prp",
     "grammar":"masc acc sg of santa",
-    "case":0,
+    "case":"0",
     "meaning":"being present",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√as (be)",
     "base":"√as + a > sa",
     "construction":"sa + nta",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -70,14 +70,14 @@
     "pali_1":"bhikkhuṃ",
     "pos":"noun",
     "grammar":"masc acc sg, from bhikkhati",
-    "case":0,
+    "case":"0",
     "meaning":"monk, monastic",
     "meaning_lit":"beggar, mendicant",
     "root":"√bhikkh (beg)",
-    "base":0,
+    "base":"0",
     "construction":"√bhikkh + u",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -88,12 +88,12 @@
     "grammar":"abs of na āpucchati",
     "case":"+acc",
     "meaning":"having not asked permission; having not informed",
-    "meaning_lit":0,
+    "meaning_lit":"0",
     "root":"√pucch (ask, question)",
-    "base":0,
+    "base":"0",
     "construction":"na + ā + √pucch + tvā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -102,14 +102,14 @@
     "pali_1":"vikāle",
     "pos":"ind",
     "grammar":"adv, loc sg of vikāla",
-    "case":0,
+    "case":"0",
     "meaning":"at the wrong time, in the afternoon, at the inappropriate time",
     "meaning_lit":"in wrong time",
     "root":"√kal (spend time)",
-    "base":0,
+    "base":"0",
     "construction":"vi + √kal + *a",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -118,14 +118,14 @@
     "pali_1":"gāmaṃ",
     "pos":"noun",
     "grammar":"masc acc sg of gāma",
-    "case":0,
+    "case":"0",
     "meaning":"village",
     "meaning_lit":"collection",
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -153,11 +153,11 @@
     "case":"+abl",
     "meaning":"apart (from), except (for)",
     "meaning_lit":"other (than)",
-    "root":0,
-    "base":0,
+    "root":"0",
+    "base":"0",
     "construction":"añña + tra",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -182,14 +182,14 @@
     "pali_1":"- tathā",
     "pos":"ind",
     "grammar":"adv",
-    "case":0,
+    "case":"0",
     "meaning":"like that, such",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
     "construction":"ta + thā",
-    "compound_type":0,
-    "compound_construction":0
+    "compound_type":"0",
+    "compound_construction":"0"
   },
   {
     "abbrev":"PC 85",
@@ -248,11 +248,11 @@
     "grammar":"nt nom sg of pācittiya",
     "case":"+loc",
     "meaning":"offence requiring confession, offence involving expiation",
-    "meaning_lit":0,
-    "root":0,
-    "base":0,
-    "construction":0,
-    "compound_type":0,
-    "compound_construction":0
+    "meaning_lit":"0",
+    "root":"0",
+    "base":"0",
+    "construction":"0",
+    "compound_type":"0",
+    "compound_construction":"0"
   }
 ]
