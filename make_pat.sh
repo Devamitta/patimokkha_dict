@@ -3,14 +3,14 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 bash download_patimokkha.sh
 
-exec > >(tee "/home/deva/logs/mkpat.log") 2>&1
+exec > >(tee "~/logs/mkpat.log") 2>&1
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "moving Patimokkha ods from Downloads"
 
-# mv "/home/deva/Downloads/Pātimokkha Word by Word.ods" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.ods"
+# mv "~/Downloads/Pātimokkha Word by Word.ods" "~/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.ods"
 
-mv "/home/deva/Downloads/Pātimokkha Word by Word.xlsx" "/home/deva/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.xlsx"
+mv "~/Downloads/Pātimokkha Word by Word.xlsx" "~/Documents/dps/patimokkha_dict/original_sources/Pātimokkha Word by Word.xlsx"
 
 cd original_sources
 
@@ -27,7 +27,7 @@ uv run python ods-to-anki.py
 echo "process completed"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-mv "/home/deva/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "/home/deva/Documents/dpd-db/dps/csvs/anki_csvs/anki_patimokkha.csv"
+mv "~/Documents/dps/patimokkha_dict/Pātimokkha Word by Word.csv" "~/Documents/dpd-db/dps/csvs/anki_csvs/anki_patimokkha.csv"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo -e "\033[34manki_patimokkha.csv moved to csv-for-anki\033[0m"
@@ -35,7 +35,7 @@ echo -e "\033[34manki_patimokkha.csv moved to csv-for-anki\033[0m"
 uv run python patimokkha_dict.py
 echo "HTML updated please push on github"
 
-cd "/home/deva/Documents/dps/patimokkha_dict"
+cd "~/Documents/dps/patimokkha_dict"
 
 bash push_changes.sh
 

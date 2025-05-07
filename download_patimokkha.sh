@@ -6,11 +6,11 @@ if ! ping -c 1 google.com &> /dev/null; then
     exit 1
 fi
 
-exec > >(tee "/home/deva/logs/download_patimokkha.log") 2>&1
+exec > >(tee "~/logs/download_patimokkha.log") 2>&1
 
 echo "--- download_patimokkha Script Started at $(date) ---"
 
-cd "/home/deva/Downloads"
+cd "~/Downloads"
 
 pat=("[Pātimokkha Word by Word](https://docs.google.com/spreadsheets/d/1rS-IlX4DvKmnBO58KON37eVnOZqwfkG-ot-zIjCuzH4/)")
 
@@ -33,12 +33,12 @@ done
 
 
 # Check if the fileserver is mounted
-if [ -d "/home/deva/filesrv1/share1/Sharing between users" ]; then
+if [ -d "~/filesrv1/share1/Sharing between users" ]; then
 
     echo "Moving folders to the fileserver"
 
     # Copy folders on the server
-    cp -rf Pātimokkha\ Word\ by\ Word.xlsx /home/deva/filesrv1/share1/Sharing\ between\ users/16\ For\ Pātimokkha\ Class/offline/Pātimokkha\ Word\ by\ Word.xlsx
+    cp -rf Pātimokkha\ Word\ by\ Word.xlsx ~/filesrv1/share1/Sharing\ between\ users/16\ For\ Pātimokkha\ Class/offline/Pātimokkha\ Word\ by\ Word.xlsx
 
     echo "Pātimokkha copied to the fileserver"
 
